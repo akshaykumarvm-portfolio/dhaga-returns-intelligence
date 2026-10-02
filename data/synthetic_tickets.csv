@@ -1,0 +1,501 @@
+ticket_id,order_id,message,true_category
+TCK00000,e887d70e,"refund abhi tak nahi aaya, 10 din ho gaye",other
+TCK00001,b779255e,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00002,294b4287,the sizing is way off from what's on the app,fit
+TCK00003,a1ff9dd0,"received incorrect product, need exchange asap",wrong_item
+TCK00004,abc7229c,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00005,dda9fc09,"cancel this order please, don't need it anymore",changed_mind
+TCK00006,2cd28959,"cancel this order pls, don't need it anymore",changed_mind
+TCK00007,6889ae0e,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00008,4a6c20fc,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00009,2026d851,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00010,26a74c62,the sizing is way off from what's on the app,fit
+TCK00011,4f774001,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00012,acbbeaf9,"cancel this order please, don't need it anymore",changed_mind
+TCK00013,b11b99d0,kaha hai mera order? 5 din ho gaye,other
+TCK00014,f7c4ed3a,"the package arrived broken, please assist",delivery_damage
+TCK00015,bcd87b7c,"received incorrect product, need exchange asap",wrong_item
+TCK00016,069373d1,"received incorrect product, need exchange asap",wrong_item
+TCK00017,0d71b89c,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00018,de393a40,size guide follow kiya phir bhi galat size aaya,fit
+TCK00019,69b32729,"the package arrived broken, please assist",delivery_damage
+TCK00020,965db4b7,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00021,0467a47d,"cancel this order pls, don't need it anymore",changed_mind
+TCK00022,0554e457,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00023,cd835501,"refund abhi tak nahi aaya, 10 din ho gaye",other
+TCK00024,45edd51b,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00025,fc290fbd,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00026,e3a48a97,"received incorrect product, need exchange asap",wrong_item
+TCK00027,9d2095f7,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00028,a6c50fad,"cancel this order please, don't need it anymore",changed_mind
+TCK00029,61032f86,"received incorrect product, need exchange asap",wrong_item
+TCK00030,fc936038,"product quality bhut kharab hai, complain karna hai",fabric_quality
+TCK00031,4a276dc3,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00032,33c8d05b,kab tak deliver hoga bataiye please,other
+TCK00033,932f8cd0,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00034,96d4b712,size guide follow kiya phir bhi galat size aaya,fit
+TCK00035,93b94d0b,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00036,77c2dba1,"cancel this order please, don't need it anymore",changed_mind
+TCK00037,2bd5e9de,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00038,1f83c696,"cancel this order pls, don't need it anymore",changed_mind
+TCK00039,387f80e5,"cancel this order please, don't need it anymore",changed_mind
+TCK00040,aaf15cb9,"cancel this order please, don't need it anymore",changed_mind
+TCK00041,a513118a,"received incorrect product, need exchange asap",wrong_item
+TCK00042,55fde664,kaha hai mera order? 5 din ho gaye,other
+TCK00043,9b6ddd92,"received incorrect product, need exchange asap",wrong_item
+TCK00044,3e74adf9,size guide follow kiya phir bhi galat size aaya,fit
+TCK00045,a91b7d21,"cancel this order please, don't need it anymore",changed_mind
+TCK00046,39bb9709,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00047,4b60e61a,"where is my order, tracking not updating",other
+TCK00048,a5eec5b8,"cancel this order please, don't need it anymore",changed_mind
+TCK00049,ffb3a678,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00050,4e883a7f,"the package arrived broken, pls assist",delivery_damage
+TCK00051,87476df1,"the package arrived broken, please assist",delivery_damage
+TCK00052,107f5bdf,"cancel this order please, don't need it anymore",changed_mind
+TCK00053,2585c61b,size guide follow kiya phir bhi galat size aaya,fit
+TCK00054,ee19d18b,"mera order damaged aaya h, refund chahiye",delivery_damage
+TCK00055,4672fc18,"product quality bhut kharab hai, complain karna hai",fabric_quality
+TCK00056,79001a8a,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00057,623ec965,"received incorrect product, need exchange asap",wrong_item
+TCK00058,6f18cb9c,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00059,771514ee,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00060,b2846506,size guide follow kiya phir bhi galat size aaya,fit
+TCK00061,654053c0,"received incorrect product, need exchange asap",wrong_item
+TCK00062,b8689f7f,"refund abhi tak nahi aaya, 10 din ho gaye",other
+TCK00063,d1b87384,"the package arrived broken, please assist",delivery_damage
+TCK00064,42ff81ca,"cancel this order please, don't need it anymore",changed_mind
+TCK00065,d7105985,"cancel this order please, don't need it anymore",changed_mind
+TCK00066,a533e3b8,"cancel this order please, don't need it anymore",changed_mind
+TCK00067,163c1a79,"the package arrived broken, please assist",delivery_damage
+TCK00068,10763aa0,"the package arrived broken, please assist",delivery_damage
+TCK00069,78f1521e,size guide follow kiya phir bhi galat size aaya,fit
+TCK00070,c666578f,"refund abhi tak nahi aaya, 10 din ho gaye",other
+TCK00071,4811c103,"the package arrived broken, please assist",delivery_damage
+TCK00072,a833177d,"received incorrect product, need exchange asap",wrong_item
+TCK00073,cd7e9c1e,"cancel this order please, don't need it anymore",changed_mind
+TCK00074,e1c26452,"received incorrect product, need exchange asap",wrong_item
+TCK00075,7d1f03cf,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00076,0918a270,"mera order damaged aaya h, refund chahiye",delivery_damage
+TCK00077,396c74d0,"cancel this order please, don't need it anymore",changed_mind
+TCK00078,2ac4cc16,"the package arrived broken, pls assist",delivery_damage
+TCK00079,af0aef4a,"received incorrect product, need exchange asap",wrong_item
+TCK00080,eb7b0eaa,"cancel this order please, don't need it anymore",changed_mind
+TCK00081,bb7e149a,"cancel this order please, don't need it anymore",changed_mind
+TCK00082,67a3daf4,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00083,e72db224,"cancel this order please, don't need it anymore",changed_mind
+TCK00084,d3741e26,"the package arrived broken, please assist",delivery_damage
+TCK00085,a8ec9566,size guide follow kiya phir bhi galat size aaya,fit
+TCK00086,882b88be,the sizing is way off from what's on the app,fit
+TCK00087,f5c796bc,"the package arrived broken, please assist",delivery_damage
+TCK00088,9a87bb50,"received incorrect product, need exchange asap",wrong_item
+TCK00089,0f836080,the sizing is way off from what's on the app,fit
+TCK00090,8279e9e0,"received incorrect product, need exchange asap",wrong_item
+TCK00091,bd0e871f,"where is my order, tracking not updating",other
+TCK00092,81ae39d9,"received incorrect product, need exchange asap",wrong_item
+TCK00093,3420c127,"received incorrect product, need exchange asap",wrong_item
+TCK00094,596053de,"refund abhi tak nahi aaya, 10 din ho gaye",other
+TCK00095,21deb0da,the sizing is way off from what's on the app,fit
+TCK00096,b063fc78,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00097,f2d495a5,"wrong item bheja h apne, kab tak sahi wala aayega",wrong_item
+TCK00098,c57068f5,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00099,2ecac6e8,"cancel this order please, don't need it anymore",changed_mind
+TCK00100,9d863eb5,"cancel this order please, don't need it anymore",changed_mind
+TCK00101,64fb529a,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00102,ebc2cad8,"cancel this order please, don't need it anymore",changed_mind
+TCK00103,038f8dbf,"received incorrect product, need exchange asap",wrong_item
+TCK00104,043ab9ab,"cancel this order please, don't need it anymore",changed_mind
+TCK00105,e6775667,kab tak deliver hoga bataiye please,other
+TCK00106,f89a65b1,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00107,160996d7,"cancel this order please, don't need it anymore",changed_mind
+TCK00108,0235f74b,"received incorrect product, need exchange asap",wrong_item
+TCK00109,da9f60ee,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00110,70891bb7,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00111,06abfc1f,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00112,103030d0,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00113,8984c7db,the sizing is way off from what's on the app,fit
+TCK00114,89327eae,kaha hai mera order? 5 din ho gaye,other
+TCK00115,80eb4538,"the package arrived broken, please assist",delivery_damage
+TCK00116,9d0a0c5d,size guide follow kiya phir bhi galat size aaya,fit
+TCK00117,e53de116,kab tak deliver hoga bataiye please,other
+TCK00118,8689b255,"the package arrived broken, please assist",delivery_damage
+TCK00119,ee09311e,"received incorrect product, need exchange asap",wrong_item
+TCK00120,8cbf3c1c,the sizing is way off from what's on the app,fit
+TCK00121,c3c0de81,"cancel this order please, don't need it anymore",changed_mind
+TCK00122,6b56a7b5,"received incorrect product, need exchange asap",wrong_item
+TCK00123,151d6baf,"cancel this order please, don't need it anymore",changed_mind
+TCK00124,c79144df,"received incorrect product, need exchange asap",wrong_item
+TCK00125,43d706d6,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00126,2fac3b55,size guide follow kiya phir bhi galat size aaya,fit
+TCK00127,261141a7,"refund abhi tak nahi aaya, 10 din ho gaye",other
+TCK00128,43360234,"product quality bahut kharab h, complain karna h",fabric_quality
+TCK00129,9513a807,"wrong item bheja h apne, kab tak sahi wala aayega",wrong_item
+TCK00130,cf5de71a,"cancel this order pls, don't need it anymore",changed_mind
+TCK00131,8383b2fe,"received incorrect product, need exchange asap",wrong_item
+TCK00132,5a96ea08,"cancel this order please, don't need it anymore",changed_mind
+TCK00133,1528c155,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00134,d94d847a,"received incorrect product, need exchange asap",wrong_item
+TCK00135,75686ec8,"refund abhi tak nahi aaya, 10 din ho gaye",other
+TCK00136,17d3b9c2,"cancel this order please, don't need it anymore",changed_mind
+TCK00137,7d4af511,"received incorrect product, need exchange asap",wrong_item
+TCK00138,2031d846,app crash ho raha hai baar baar,other
+TCK00139,17ea881e,"received incorrect product, need exchange asap",wrong_item
+TCK00140,6c3e9753,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00141,3bbcc9e1,"wrong item bheja h apne, kab tak sahi wala aayega",wrong_item
+TCK00142,c355a348,"cancel this order please, don't need it anymore",changed_mind
+TCK00143,3e12381b,"cancel this order please, don't need it anymore",changed_mind
+TCK00144,1e9df8ba,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00145,0cc3357b,size guide follow kiya phir bhi galat size aaya,fit
+TCK00146,808d7642,"where is my order, tracking not updating",other
+TCK00147,4da3b2a3,"refund abhi tak nahi aaya, 10 din ho gaye",other
+TCK00148,6cd2621a,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00149,effec2f7,the sizing is way off from what's on the app,fit
+TCK00150,008b666d,"the package arrived broken, please assist",delivery_damage
+TCK00151,65842f0b,"cancel this order please, don't need it anymore",changed_mind
+TCK00152,ad5f3e58,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00153,36711055,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00154,5b13ecd9,"received incorrect product, need exchange asap",wrong_item
+TCK00155,7d905d4f,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00156,8e00db51,"cancel this order please, don't need it anymore",changed_mind
+TCK00157,af3c82db,"cancel this order please, don't need it anymore",changed_mind
+TCK00158,58407311,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00159,4b910a67,app crash ho raha hai baar baar,other
+TCK00160,19d2d53f,"where is my order, tracking not updating",other
+TCK00161,3fac4148,"cancel this order pls, don't need it anymore",changed_mind
+TCK00162,e155f731,"cancel this order please, don't need it anymore",changed_mind
+TCK00163,69efbeb5,"where is my order, tracking not updating",other
+TCK00164,492d7ef1,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00165,321021aa,"where is my order, tracking not updating",other
+TCK00166,8423c63d,size guide follow kiya phir bhi galat size aaya,fit
+TCK00167,ab42e493,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00168,0ae002e4,"cancel this order pls, don't need it anymore",changed_mind
+TCK00169,c0613573,"received incorrect product, need exchange asap",wrong_item
+TCK00170,d93b8750,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00171,e1e0104a,app crash ho raha hai baar baar,other
+TCK00172,58e0462b,size guide follow kiya phir bhi galat size aaya,fit
+TCK00173,fe229248,"received incorrect product, need exchange asap",wrong_item
+TCK00174,265e766c,"received incorrect product, need exchange asap",wrong_item
+TCK00175,51662978,"cancel this order please, don't need it anymore",changed_mind
+TCK00176,71b794b4,size guide follow kiya phir bhi galat size aaya,fit
+TCK00177,c51716ad,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00178,ce1776c1,kab tak deliver hoga bataiye please,other
+TCK00179,f4e5a8c0,app crash ho raha h baar baar,other
+TCK00180,cc3279f3,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00181,0b36430a,"cancel this order please, don't need it anymore",changed_mind
+TCK00182,291e8ed1,"cancel this order please, don't need it anymore",changed_mind
+TCK00183,80c6013a,size guide follow kiya phir bhi galat size aaya,fit
+TCK00184,2d3cd3e8,"received incorrect product, need exchange asap",wrong_item
+TCK00185,96bbff9f,"cancel this order please, don't need it anymore",changed_mind
+TCK00186,687fbfdd,"cancel this order please, don't need it anymore",changed_mind
+TCK00187,fcaaf04d,"cancel this order please, don't need it anymore",changed_mind
+TCK00188,b4d5b017,"the package arrived broken, please assist",delivery_damage
+TCK00189,87717c86,"cancel this order please, don't need it anymore",changed_mind
+TCK00190,a052a99c,app crash ho raha hai baar baar,other
+TCK00191,43e5c5eb,"received incorrect product, need exchange asap",wrong_item
+TCK00192,54aaa289,"refund abhi tak nahi aaya, 10 din ho gaye",other
+TCK00193,09ed89fb,"the package arrived broken, please assist",delivery_damage
+TCK00194,4ebd0c32,"where is my order, tracking not updating",other
+TCK00195,c4d87c34,"received incorrect product, need exchange asap",wrong_item
+TCK00196,e0abd5a7,size guide follow kiya phir bhi galat size aaya,fit
+TCK00197,a2fb813f,size guide follow kiya phir bhi galat size aaya,fit
+TCK00198,ab188ff7,"product quality bhut kharab hai, complain karna hai",fabric_quality
+TCK00199,ed21d2e9,kab tak deliver hoga bataiye please,other
+TCK00200,5ddddf69,"cancel this order please, don't need it anymore",changed_mind
+TCK00201,b5f1ac63,"where is my order, tracking not updating",other
+TCK00202,1bc54e4f,size guide follow kiya phir bhi galat size aaya,fit
+TCK00203,a5cc8418,"cancel this order please, don't need it anymore",changed_mind
+TCK00204,8de274ea,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00205,8ebbcd7b,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00206,2cbbb1bf,"cancel this order please, don't need it anymore",changed_mind
+TCK00207,7e186f57,the sizing is way off from what's on the app,fit
+TCK00208,ae244c66,"cancel this order please, don't need it anymore",changed_mind
+TCK00209,126693ec,"cancel this order please, don't need it anymore",changed_mind
+TCK00210,2b251888,"cancel this order please, don't need it anymore",changed_mind
+TCK00211,a277d5b1,app crash ho raha hai baar baar,other
+TCK00212,ef8540ec,"where is my order, tracking not updating",other
+TCK00213,15b3f747,"the package arrived broken, please assist",delivery_damage
+TCK00214,ac557f10,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00215,3b68c34a,app crash ho raha hai baar baar,other
+TCK00216,cdad46a3,"cancel this order pls, don't need it anymore",changed_mind
+TCK00217,c744c877,"received incorrect product, need exchange asap",wrong_item
+TCK00218,ecbb0d03,"cancel this order please, don't need it anymore",changed_mind
+TCK00219,569f3f43,"refund abhi tak nahi aaya, 10 din ho gaye",other
+TCK00220,971a15d0,the sizing is way off from what's on the app,fit
+TCK00221,0cd97aae,"cancel this order please, don't need it anymore",changed_mind
+TCK00222,1f4f7523,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00223,7e2fa8da,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00224,29ff458e,"cancel this order please, don't need it anymore",changed_mind
+TCK00225,7b0e0c1f,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00226,8719e9fb,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00227,2c6596a0,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00228,4c42d85e,"received incorrect product, need exchange asap",wrong_item
+TCK00229,4dd889c4,the sizing is way off from what's on the app,fit
+TCK00230,afb466e6,"cancel this order please, don't need it anymore",changed_mind
+TCK00231,091f915b,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00232,7168b321,kaha hai mera order? 5 din ho gaye,other
+TCK00233,70c71f3c,the sizing is way off from what's on the app,fit
+TCK00234,5d58cbf0,"cancel this order please, don't need it anymore",changed_mind
+TCK00235,d629fc3d,kaha hai mera order? 5 din ho gaye,other
+TCK00236,ae268827,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00237,60ad335c,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00238,20f143f8,the sizing is way off from what's on the app,fit
+TCK00239,c84d452a,"cancel this order please, don't need it anymore",changed_mind
+TCK00240,5a1db76e,kaha hai mera order? 5 din ho gaye,other
+TCK00241,b662cd2a,the sizing is way off from what's on the app,fit
+TCK00242,43fae918,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00243,0b8eb16a,the sizing is way off from what's on the app,fit
+TCK00244,312cc453,"cancel this order please, don't need it anymore",changed_mind
+TCK00245,17a2ab66,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00246,4b60371d,the sizing is way off from what's on the app,fit
+TCK00247,f407fab5,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00248,4d0519ca,kab tak deliver hoga bataiye please,other
+TCK00249,38058b4e,the sizing is way off from what's on the app,fit
+TCK00250,592c82cc,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00251,be5b5133,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00252,15709254,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00253,ff2990d8,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00254,32f86568,"cancel this order please, don't need it anymore",changed_mind
+TCK00255,233bf529,"cancel this order please, don't need it anymore",changed_mind
+TCK00256,1d7009e6,"the package arrived broken, please assist",delivery_damage
+TCK00257,393e20ef,"received incorrect product, need exchange asap",wrong_item
+TCK00258,78ff2a46,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00259,ec488ec1,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00260,6286dc06,the sizing is way off from what's on the app,fit
+TCK00261,d49aedc0,"cancel this order please, don't need it anymore",changed_mind
+TCK00262,d7759dd0,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00263,02a33157,app crash ho raha hai baar baar,other
+TCK00264,52c54670,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00265,8a49adc2,app crash ho raha h baar baar,other
+TCK00266,717e1d2b,kab tak deliver hoga bataiye please,other
+TCK00267,aaec4c05,size guide follow kiya phir bhi galat size aaya,fit
+TCK00268,d249fe86,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00269,91295eee,app crash ho raha hai baar baar,other
+TCK00270,538e02ba,kab tak deliver hoga bataiye please,other
+TCK00271,79f9439e,size guide follow kiya phir bhi galat size aaya,fit
+TCK00272,74823862,"cancel this order please, don't need it anymore",changed_mind
+TCK00273,9c8b3349,"where is my order, tracking not updating",other
+TCK00274,203f9b71,"where is my order, tracking not updating",other
+TCK00275,6d152c55,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00276,c83741ed,"cancel this order pls, don't need it anymore",changed_mind
+TCK00277,edd0a7b7,"where is my order, tracking not updating",other
+TCK00278,42c3842c,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00279,e75de4fa,"cancel this order please, don't need it anymore",changed_mind
+TCK00280,396f6d40,"received incorrect product, need exchange asap",wrong_item
+TCK00281,9560daf4,"cancel this order please, don't need it anymore",changed_mind
+TCK00282,43a04d1c,the sizing is way off from what's on the app,fit
+TCK00283,4945a3dd,"product quality bhut kharab hai, complain karna hai",fabric_quality
+TCK00284,7165fcf2,"the package arrived broken, please assist",delivery_damage
+TCK00285,7b033dff,the sizing is way off from what's on the app,fit
+TCK00286,07f64d31,kaha hai mera order? 5 din ho gaye,other
+TCK00287,b7b65d6b,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00288,a9bc9e11,"the package arrived broken, pls assist",delivery_damage
+TCK00289,3c532f74,kaha hai mera order? 5 din ho gaye,other
+TCK00290,16021d87,"refund abhi tak nahi aaya, 10 din ho gaye",other
+TCK00291,14cd9eb5,"received incorrect product, need exchange asap",wrong_item
+TCK00292,546c05de,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00293,26ab0556,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00294,59908348,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00295,c16e5d14,"cancel this order pls, don't need it anymore",changed_mind
+TCK00296,3ec0124f,"received incorrect product, need exchange asap",wrong_item
+TCK00297,3fc2d07d,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00298,e8d837de,"received incorrect product, need exchange asap",wrong_item
+TCK00299,2808a528,"received incorrect product, need exchange asap",wrong_item
+TCK00300,c2a63e94,"where is my order, tracking not updating",other
+TCK00301,5e286fbf,"cancel this order please, don't need it anymore",changed_mind
+TCK00302,d717bd72,"received incorrect product, need exchange asap",wrong_item
+TCK00303,a99809d6,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00304,c2a7473d,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00305,8c86742e,"product quality bhut kharab hai, complain karna hai",fabric_quality
+TCK00306,38d7ac3c,"product quality bhut kharab hai, complain karna hai",fabric_quality
+TCK00307,2a4d3325,the sizing is way off from what's on the app,fit
+TCK00308,c1954d4b,"where is my order, tracking not updating",other
+TCK00309,7a66eb77,size guide follow kiya phir bhi galat size aaya,fit
+TCK00310,01de2d5d,"refund abhi tak nahi aaya, 10 din ho gaye",other
+TCK00311,cec563d1,"cancel this order please, don't need it anymore",changed_mind
+TCK00312,9918d957,"cancel this order please, don't need it anymore",changed_mind
+TCK00313,f3c5ed9c,kab tak deliver hoga bataiye please,other
+TCK00314,85d5a68d,"cancel this order please, don't need it anymore",changed_mind
+TCK00315,50fda60f,kab tak deliver hoga bataiye please,other
+TCK00316,35d79eb9,"cancel this order please, don't need it anymore",changed_mind
+TCK00317,0d542ed5,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00318,7be718a4,"the package arrived broken, please assist",delivery_damage
+TCK00319,a3303e0a,"received incorrect product, need exchange asap",wrong_item
+TCK00320,8bcefd1e,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00321,9ed1e217,"cancel this order please, don't need it anymore",changed_mind
+TCK00322,841bad08,the sizing is way off from what's on the app,fit
+TCK00323,3ff211b6,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00324,345b9ee8,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00325,4abc8219,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00326,74399a41,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00327,f335afa2,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00328,ddb60350,"refund abhi tak nahi aaya, 10 din ho gaye",other
+TCK00329,79a45e5d,"product quality bhut kharab hai, complain karna hai",fabric_quality
+TCK00330,607f6f68,"cancel this order please, don't need it anymore",changed_mind
+TCK00331,689442fd,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00332,216489c6,"the package arrived broken, please assist",delivery_damage
+TCK00333,cd225e5c,"the package arrived broken, please assist",delivery_damage
+TCK00334,93c61514,kab tak deliver hoga bataiye please,other
+TCK00335,efb17391,"the package arrived broken, please assist",delivery_damage
+TCK00336,127c3152,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00337,be811653,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00338,7174025e,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00339,c82d48d9,"cancel this order please, don't need it anymore",changed_mind
+TCK00340,d439fe22,"cancel this order please, don't need it anymore",changed_mind
+TCK00341,c9a1789a,"cancel this order please, don't need it anymore",changed_mind
+TCK00342,5d0c9bb1,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00343,d0bd2c9c,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00344,63dfd8b9,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00345,100c3e18,"cancel this order please, don't need it anymore",changed_mind
+TCK00346,9d85a11c,"cancel this order please, don't need it anymore",changed_mind
+TCK00347,466517cf,the sizing is way off from what's on the app,fit
+TCK00348,8c581f5f,"refund abhi tak nahi aaya, 10 din ho gaye",other
+TCK00349,68d32c0e,size guide follow kiya phir bhi galat size aaya,fit
+TCK00350,725c874a,"received incorrect product, need exchange asap",wrong_item
+TCK00351,3d697cbb,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00352,04c0e446,"refund abhi tak nahi aaya, 10 din ho gaye",other
+TCK00353,036936d7,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00354,b26066ab,"cancel this order please, don't need it anymore",changed_mind
+TCK00355,6ee24c51,size guide follow kiya phir bhi galat size aaya,fit
+TCK00356,78a4a0d4,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00357,0b1fecb9,"the package arrived broken, please assist",delivery_damage
+TCK00358,f5dcabdc,"cancel this order please, don't need it anymore",changed_mind
+TCK00359,d9d68d90,size guide follow kiya phir bhi galat size aaya,fit
+TCK00360,1e09218a,"cancel this order pls, don't need it anymore",changed_mind
+TCK00361,7c08c2ce,"the package arrived broken, please assist",delivery_damage
+TCK00362,412bb040,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00363,b61574c0,"where is my order, tracking not updating",other
+TCK00364,0c69a5e3,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00365,75bd9d18,size guide follow kiya phir bhi galat size aaya,fit
+TCK00366,9c29adee,"cancel this order please, don't need it anymore",changed_mind
+TCK00367,c1e7c3e7,the sizing is way off from what's on the app,fit
+TCK00368,8d0fb630,"refund abhi tak nahi aaya, 10 din ho gaye",other
+TCK00369,e6b7ec67,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00370,f34ba617,"cancel this order please, don't need it anymore",changed_mind
+TCK00371,d7d83218,"product quality bahut kharab h, complain karna h",fabric_quality
+TCK00372,73bb45b9,size guide follow kiya phir bhi galat size aaya,fit
+TCK00373,d9b231c4,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00374,0d7ba9b4,app crash ho raha hai baar baar,other
+TCK00375,3d353b0c,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00376,0abff644,"where is my order, tracking not updating",other
+TCK00377,5113c6b8,app crash ho raha hai baar baar,other
+TCK00378,0f2e2d71,"cancel this order please, don't need it anymore",changed_mind
+TCK00379,b54cb647,"cancel this order please, don't need it anymore",changed_mind
+TCK00380,45ec1aef,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00381,afda6344,"received incorrect product, need exchange asap",wrong_item
+TCK00382,9cff4c2a,"cancel this order please, don't need it anymore",changed_mind
+TCK00383,437d2a27,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00384,3c177285,kab tak deliver hoga bataiye please,other
+TCK00385,def0b101,"cancel this order please, don't need it anymore",changed_mind
+TCK00386,30db3d60,kab tak deliver hoga bataiye please,other
+TCK00387,7a3f1a3d,the sizing is way off from what's on the app,fit
+TCK00388,1e9a6203,"the package arrived broken, pls assist",delivery_damage
+TCK00389,3d7ae083,"cancel this order please, don't need it anymore",changed_mind
+TCK00390,12a5027b,kaha hai mera order? 5 din ho gaye,other
+TCK00391,b1809aa6,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00392,4828b320,"wrong item bheja h apne, kab tak sahi wala aayega",wrong_item
+TCK00393,8b5b1b51,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00394,dc37b7a7,size guide follow kiya phir bhi galat size aaya,fit
+TCK00395,199d52c1,"the package arrived broken, please assist",delivery_damage
+TCK00396,f169b66d,"the package arrived broken, please assist",delivery_damage
+TCK00397,f84c6bca,"received incorrect product, need exchange asap",wrong_item
+TCK00398,5739cb4a,"cancel this order please, don't need it anymore",changed_mind
+TCK00399,5e900da6,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00400,0608bdbd,"product quality bahut kharab h, complain karna h",fabric_quality
+TCK00401,0355227c,size guide follow kiya phir bhi galat size aaya,fit
+TCK00402,756da81c,"cancel this order please, don't need it anymore",changed_mind
+TCK00403,2a89183c,"the package arrived broken, please assist",delivery_damage
+TCK00404,7de7cf2a,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00405,ce504907,"the package arrived broken, please assist",delivery_damage
+TCK00406,582c9230,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00407,bc1b12f5,"cancel this order please, don't need it anymore",changed_mind
+TCK00408,0c182306,app crash ho raha hai baar baar,other
+TCK00409,1f5ed534,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00410,7ef0f2a2,app crash ho raha hai baar baar,other
+TCK00411,0d9b83e0,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00412,c90f0753,the sizing is way off from what's on the app,fit
+TCK00413,c079766a,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00414,ef84bbb1,the sizing is way off from what's on the app,fit
+TCK00415,127da892,"received incorrect product, need exchange asap",wrong_item
+TCK00416,fd28863a,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00417,cfc70dc6,"the package arrived broken, pls assist",delivery_damage
+TCK00418,fc8a7586,"where is my order, tracking not updating",other
+TCK00419,d2d630d6,"cancel this order please, don't need it anymore",changed_mind
+TCK00420,70b63371,"cancel this order please, don't need it anymore",changed_mind
+TCK00421,64dc671b,the sizing is way off from what's on the app,fit
+TCK00422,b7e04581,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00423,42603e04,"cancel this order please, don't need it anymore",changed_mind
+TCK00424,04ce2259,size guide follow kiya phir bhi galat size aaya,fit
+TCK00425,3359d6fb,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00426,4560a78f,"cancel this order please, don't need it anymore",changed_mind
+TCK00427,4938228f,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00428,f66740c1,"refund abhi tak nahi aaya, 10 din ho gaye",other
+TCK00429,05589589,"product quality bhut kharab hai, complain karna hai",fabric_quality
+TCK00430,38df547c,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00431,fd08ecbe,"cancel this order please, don't need it anymore",changed_mind
+TCK00432,6d0eed21,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00433,229877d2,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00434,f730adb6,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00435,fb076cc2,"refund abhi tak nahi aaya, 10 din ho gaye",other
+TCK00436,7903fe1a,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00437,22f4ce88,"the package arrived broken, please assist",delivery_damage
+TCK00438,138f332f,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00439,06fba63e,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00440,20126309,app crash ho raha hai baar baar,other
+TCK00441,4052aa0a,the sizing is way off from what's on the app,fit
+TCK00442,5ad085e6,"refund abhi tak nahi aaya, 10 din ho gaye",other
+TCK00443,7ea80e43,"cancel this order please, don't need it anymore",changed_mind
+TCK00444,8fdf5db7,app crash ho raha hai baar baar,other
+TCK00445,11dcaaf2,"cancel this order please, don't need it anymore",changed_mind
+TCK00446,bf5cdfc6,"refund abhi tak nahi aaya, 10 din ho gaye",other
+TCK00447,b17b8633,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00448,d3e90968,kaha hai mera order? 5 din ho gaye,other
+TCK00449,46052343,"cancel this order please, don't need it anymore",changed_mind
+TCK00450,d9753758,kab tak deliver hoga bataiye please,other
+TCK00451,2a6999d7,the sizing is way off from what's on the app,fit
+TCK00452,670aef9e,"cancel this order please, don't need it anymore",changed_mind
+TCK00453,12d78e08,"received incorrect product, need exchange asap",wrong_item
+TCK00454,e80d58e0,kaha hai mera order? 5 din ho gaye,other
+TCK00455,ab6b1eac,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00456,71859dc2,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00457,70761219,the sizing is way off from what's on the app,fit
+TCK00458,f101a64b,"cancel this order please, don't need it anymore",changed_mind
+TCK00459,b73154f0,"the package arrived broken, please assist",delivery_damage
+TCK00460,7478fb97,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00461,9238b1f4,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00462,86c66fc4,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00463,2b5fb58e,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00464,cba76929,kaha hai mera order? 5 din ho gaye,other
+TCK00465,6c41ca7c,size guide follow kiya phir bhi galat size aaya,fit
+TCK00466,8e1800fe,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00467,ede098af,the sizing is way off from what's on the app,fit
+TCK00468,7cfd9bd0,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00469,cf5d9eee,"the package arrived broken, please assist",delivery_damage
+TCK00470,1b4fa956,app crash ho raha hai baar baar,other
+TCK00471,1f166ae8,"cancel this order please, don't need it anymore",changed_mind
+TCK00472,a51c2c7c,"refund abhi tak nahi aaya, 10 din ho gaye",other
+TCK00473,ee96710e,"cancel this order pls, don't need it anymore",changed_mind
+TCK00474,4d708190,"cancel this order please, don't need it anymore",changed_mind
+TCK00475,63bc10c5,"the package arrived broken, please assist",delivery_damage
+TCK00476,b9ff3459,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00477,f7f570fb,"mera order damaged aaya hai, refund chahiye",delivery_damage
+TCK00478,7099dfa9,"received incorrect product, need exchange asap",wrong_item
+TCK00479,48101928,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00480,7f271177,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00481,12819f66,"the package arrived broken, please assist",delivery_damage
+TCK00482,2bf8ab71,kaha hai mera order? 5 din ho gaye,other
+TCK00483,83cacf57,"cancel this order please, don't need it anymore",changed_mind
+TCK00484,551efbfc,"the package arrived broken, please assist",delivery_damage
+TCK00485,fef6223f,app crash ho raha hai baar baar,other
+TCK00486,f7be11fa,"cancel this order please, don't need it anymore",changed_mind
+TCK00487,44c58eda,app crash ho raha hai baar baar,other
+TCK00488,5056c9f1,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00489,4e407f5f,the sizing is way off from what's on the app,fit
+TCK00490,4c66eb20,"cancel this order please, don't need it anymore",changed_mind
+TCK00491,e3f956fc,"cancel this order please, don't need it anymore",changed_mind
+TCK00492,3b5886a8,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00493,0bd2e968,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00494,a6fc158c,"wrong item bheja hai apne, kab tak sahi wala aayega",wrong_item
+TCK00495,7ef2d5f4,"product quality bahut kharab hai, complain karna hai",fabric_quality
+TCK00496,e388eca2,"received incorrect product, need exchange asap",wrong_item
+TCK00497,2e827484,the sizing is way off from what's on the app,fit
+TCK00498,960d5afb,"product quality bhut kharab hai, complain karna hai",fabric_quality
+TCK00499,6cf05e4d,"product quality bahut kharab h, complain karna h",fabric_quality

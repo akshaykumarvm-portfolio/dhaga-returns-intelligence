@@ -1,0 +1,9 @@
+# Pin exact versions after your first successful install (pip freeze > requirements.txt)
+langchain
+langchain-openai
+langchain-anthropic
+pydantic
+pandas
+streamlit
+python-dotenv
+sqlalchemy

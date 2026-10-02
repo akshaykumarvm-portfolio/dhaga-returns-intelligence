@@ -1,0 +1,501 @@
+review_id,sku,rating,review_text,true_category
+REV00000,MEN-6307,1,got a completely different design than ordered,wrong_item
+REV00001,KID-7488,3,"runs slightly small, order one size up",fit
+REV00002,WMN-4178,1,"arrived with a tear, disappointed",delivery_damage
+REV00003,KID-1582,1,got a completely different design than ordered,wrong_item
+REV00004,MEN-8546,3,okay product but not what I expected style-wise,changed_mind
+REV00005,KID-7782,1,"arrived with a tear, disappointed",delivery_damage
+REV00006,MEN-6169,3,"runs slightly small, order one size up",fit
+REV00007,MEN-6434,2,"chota nikla, size up lena chahiye tha",fit
+REV00008,WMN-5595,1,got a completely different design than ordered,wrong_item
+REV00009,MEN-9753,1,got a completely different design than ordered,wrong_item
+REV00010,WMN-2914,1,"arrived with a tear, disappointed",delivery_damage
+REV00011,MEN-1518,1,got a completely different design than ordered,wrong_item
+REV00012,KID-8404,3,okay product but not what I expected style-wise,changed_mind
+REV00013,MEN-5953,1,got a completely different design than ordered,wrong_item
+REV00014,WMN-8270,2,"chota nikla, size up lena chahiye tha",fit
+REV00015,WMN-6572,3,okay product but not what I expected style-wise,changed_mind
+REV00016,KID-3347,5,office wear ke liye perfect,other
+REV00017,WMN-1598,2,"chota nikla, size up lena chahiye tha",fit
+REV00018,WMN-6095,5,"loved it, perfect for the mehndi function",other
+REV00019,KID-8649,5,"loved it, perfect for the mehndi function",other
+REV00020,WMN-6114,3,"runs slightly small, order one size up",fit
+REV00021,WMN-4154,2,"not worth the price, quality average hai",fabric_quality
+REV00022,KID-3446,3,okay product but not what I expected style-wise,changed_mind
+REV00023,WMN-9888,2,"chota nikla, size up lena chahiye tha",fit
+REV00024,WMN-5641,1,got a completely different design than ordered,wrong_item
+REV00025,KID-6549,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00026,WMN-8712,2,"chota nikla, size up lena chahiye tha",fit
+REV00027,KID-1881,2,"chota nikla, size up lena chahiye tha",fit
+REV00028,MEN-6826,2,"not worth the price, quality average hai",fabric_quality
+REV00029,KID-3159,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00030,KID-8625,3,"runs slightly small, order one size up",fit
+REV00031,MEN-5227,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00032,MEN-6412,3,okay product but not what I expected style-wise,changed_mind
+REV00033,KID-1495,1,got a completely different design than ordered,wrong_item
+REV00034,KID-3798,1,got a completely different design than ordered,wrong_item
+REV00035,MEN-2686,1,"arrived with a tear, disappointed",delivery_damage
+REV00036,KID-2162,5,"loved it, perfect for the mehndi function",other
+REV00037,KID-7773,1,"arrived with a tear, disappointed",delivery_damage
+REV00038,KID-7288,1,"arrived with a tear, disappointed",delivery_damage
+REV00039,KID-6606,3,"decent, nothing special",other
+REV00040,MEN-2276,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00041,WMN-8584,3,"decent, nothing special",other
+REV00042,WMN-6046,3,"runs slightly small, order one size up",fit
+REV00043,MEN-7208,2,"chota nikla, size up lena chahiye tha",fit
+REV00044,WMN-4565,5,"loved it, perfect for the mehndi function",other
+REV00045,WMN-3444,1,"arrived with a tear, disappointed",delivery_damage
+REV00046,MEN-8326,1,got a completely different design than ordered,wrong_item
+REV00047,KID-6640,1,got a completely different design than ordered,wrong_item
+REV00048,MEN-9362,1,"arrived with a tear, disappointed",delivery_damage
+REV00049,WMN-7049,2,"not worth the price, quality average hai",fabric_quality
+REV00050,MEN-6885,2,"chota nikla, size up lena chahiye tha",fit
+REV00051,KID-7459,2,"chota nikla, size up lena chahiye tha",fit
+REV00052,KID-7251,3,"decent, nothing special",other
+REV00053,KID-3278,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00054,WMN-5726,1,got a completely different design than ordered,wrong_item
+REV00055,WMN-1190,4,"good quality for the price, will order again",other
+REV00056,MEN-8155,2,"not worth the price, quality average hai",fabric_quality
+REV00057,WMN-7813,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00058,MEN-3945,3,"decent, nothing special",other
+REV00059,KID-6821,3,okay product but not what I expected style-wise,changed_mind
+REV00060,MEN-9161,1,"arrived with a tear, disappointed",delivery_damage
+REV00061,KID-9948,2,"not worth the price, quality average hai",fabric_quality
+REV00062,MEN-8917,2,"chota nikla, size up lena chahiye tha",fit
+REV00063,MEN-2311,3,"runs slightly small, order one size up",fit
+REV00064,MEN-2449,3,okay product but not what I expected style-wise,changed_mind
+REV00065,MEN-1864,5,office wear ke liye perfect,other
+REV00066,KID-8438,1,"arrived with a tear, disappointed",delivery_damage
+REV00067,KID-6782,3,okay product but not what I expected style-wise,changed_mind
+REV00068,WMN-1578,1,got a completely different design than ordered,wrong_item
+REV00069,MEN-5267,1,"arrived with a tear, disappointed",delivery_damage
+REV00070,MEN-1845,1,"arrived with a tear, disappointed",delivery_damage
+REV00071,KID-8942,1,got a completely different design than ordered,wrong_item
+REV00072,WMN-5603,1,got a completely different design than ordered,wrong_item
+REV00073,MEN-3860,2,"chota nikla, size up lena chahiye tha",fit
+REV00074,MEN-8317,4,"good quality for the price, will order again",other
+REV00075,MEN-4869,2,"not worth the price, quality average hai",fabric_quality
+REV00076,KID-2382,1,"arrived with a tear, disappointed",delivery_damage
+REV00077,KID-7765,1,"arrived with a tear, disappointed",delivery_damage
+REV00078,MEN-3740,2,"not worth the price, quality average hai",fabric_quality
+REV00079,WMN-1860,3,"runs slightly small, order one size up",fit
+REV00080,KID-9724,3,okay product but not what I expected style-wise,changed_mind
+REV00081,WMN-9690,3,okay product but not what I expected style-wise,changed_mind
+REV00082,KID-7258,3,"runs slightly small, order one size up",fit
+REV00083,WMN-9704,1,"arrived with a tear, disappointed",delivery_damage
+REV00084,KID-5429,3,okay product but not what I expected style-wise,changed_mind
+REV00085,KID-4961,1,got a completely different design than ordered,wrong_item
+REV00086,MEN-6528,1,"arrived with a tear, disappointed",delivery_damage
+REV00087,MEN-1173,2,"not worth the price, quality average hai",fabric_quality
+REV00088,KID-2600,2,"chota nikla, size up lena chahiye tha",fit
+REV00089,KID-4594,3,"decent, nothing special",other
+REV00090,WMN-1388,1,got a completely different design than ordered,wrong_item
+REV00091,MEN-2995,2,"chota nikla, size up lena chahiye tha",fit
+REV00092,MEN-3128,2,"chota nikla, size up lena chahiye tha",fit
+REV00093,WMN-4018,4,"good quality for the price, will order again",other
+REV00094,MEN-8429,5,"loved it, perfect for the mehndi function",other
+REV00095,MEN-6298,1,got a completely different design than ordered,wrong_item
+REV00096,KID-7366,1,got a completely different design than ordered,wrong_item
+REV00097,KID-3915,3,"runs slightly small, order one size up",fit
+REV00098,MEN-7432,3,okay product but not what I expected style-wise,changed_mind
+REV00099,MEN-8065,2,"chota nikla, size up lena chahiye tha",fit
+REV00100,WMN-1571,3,okay product but not what I expected style-wise,changed_mind
+REV00101,KID-3438,3,okay product but not what I expected style-wise,changed_mind
+REV00102,MEN-7397,2,"chota nikla, size up lena chahiye tha",fit
+REV00103,MEN-9039,3,okay product but not what I expected style-wise,changed_mind
+REV00104,MEN-4700,3,okay product but not what I expected style-wise,changed_mind
+REV00105,KID-5961,3,"runs slightly small, order one size up",fit
+REV00106,KID-9759,5,"loved it, perfect for the mehndi function",other
+REV00107,KID-5750,1,got a completely different design than ordered,wrong_item
+REV00108,KID-4129,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00109,KID-2390,3,"runs slightly small, order one size up",fit
+REV00110,WMN-1584,3,okay product but not what I expected style-wise,changed_mind
+REV00111,WMN-9856,3,okay product but not what I expected style-wise,changed_mind
+REV00112,WMN-1606,3,okay product but not what I expected style-wise,changed_mind
+REV00113,KID-2936,1,got a completely different design than ordered,wrong_item
+REV00114,MEN-4817,4,"good quality for the price, will order again",other
+REV00115,KID-1312,2,"chota nikla, size up lena chahiye tha",fit
+REV00116,WMN-3138,1,"arrived with a tear, disappointed",delivery_damage
+REV00117,KID-3796,1,got a completely different design than ordered,wrong_item
+REV00118,WMN-9145,2,"chota nikla, size up lena chahiye tha",fit
+REV00119,WMN-4320,1,"arrived with a tear, disappointed",delivery_damage
+REV00120,KID-2979,3,"decent, nothing special",other
+REV00121,KID-4493,1,"arrived with a tear, disappointed",delivery_damage
+REV00122,KID-2035,1,"arrived with a tear, disappointed",delivery_damage
+REV00123,MEN-7060,3,okay product but not what I expected style-wise,changed_mind
+REV00124,MEN-1666,3,okay product but not what I expected style-wise,changed_mind
+REV00125,KID-2322,1,"fabric bhut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00126,KID-8798,3,"runs slightly small, order one size up",fit
+REV00127,MEN-5439,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00128,WMN-1616,3,okay product but not what I expected style-wise,changed_mind
+REV00129,MEN-2442,3,"decent, nothing special",other
+REV00130,KID-1074,1,got a completely different design than ordered,wrong_item
+REV00131,MEN-2567,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00132,KID-4409,1,"arrived with a tear, disappointed",delivery_damage
+REV00133,MEN-8772,2,"chota nikla, size up lena chahiye tha",fit
+REV00134,WMN-6966,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00135,MEN-8424,1,got a completely different design than ordered,wrong_item
+REV00136,WMN-1476,1,"arrived with a tear, disappointed",delivery_damage
+REV00137,WMN-8287,2,"chota nikla, size up lena chahiye tha",fit
+REV00138,WMN-6336,1,got a completely different design than ordered,wrong_item
+REV00139,WMN-4884,1,got a completely different design than ordered,wrong_item
+REV00140,WMN-2204,2,"not worth the price, quality average hai",fabric_quality
+REV00141,KID-3374,3,okay product but not what I expected style-wise,changed_mind
+REV00142,KID-3234,2,"not worth the price, quality average hai",fabric_quality
+REV00143,KID-4313,2,"not worth the price, quality average hai",fabric_quality
+REV00144,KID-3236,2,"chota nikla, size up lena chahiye tha",fit
+REV00145,WMN-6629,3,okay product but not what I expected style-wise,changed_mind
+REV00146,MEN-3784,1,"arrived with a tear, disappointed",delivery_damage
+REV00147,WMN-7745,1,"arrived with a tear, disappointed",delivery_damage
+REV00148,MEN-8757,3,okay product but not what I expected style-wise,changed_mind
+REV00149,MEN-8014,1,got a completely different design than ordered,wrong_item
+REV00150,KID-8114,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00151,MEN-1083,1,"arrived with a tear, disappointed",delivery_damage
+REV00152,KID-9261,2,"chota nikla, size up lena chahiye tha",fit
+REV00153,KID-9114,3,okay product but not what I expected style-wise,changed_mind
+REV00154,WMN-3174,3,"decent, nothing special",other
+REV00155,WMN-8860,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00156,MEN-1399,2,"not worth the price, quality average hai",fabric_quality
+REV00157,MEN-7641,3,okay product but not what I expected style-wise,changed_mind
+REV00158,MEN-1022,3,"decent, nothing special",other
+REV00159,MEN-6454,3,"runs slightly small, order one size up",fit
+REV00160,KID-9887,1,got a completely different design than ordered,wrong_item
+REV00161,MEN-6500,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00162,WMN-2818,3,"runs slightly small, order one size up",fit
+REV00163,KID-7003,3,okay product but not what I expected style-wise,changed_mind
+REV00164,WMN-6487,1,"arrived with a tear, disappointed",delivery_damage
+REV00165,MEN-4437,3,"decent, nothing special",other
+REV00166,KID-5380,2,"not worth the price, quality average hai",fabric_quality
+REV00167,WMN-2038,3,okay product but not what I expected style-wise,changed_mind
+REV00168,MEN-9629,3,okay product but not what I expected style-wise,changed_mind
+REV00169,KID-7031,3,okay product but not what I expected style-wise,changed_mind
+REV00170,WMN-8501,5,"loved it, perfect for the mehndi function",other
+REV00171,WMN-2791,2,"not worth the price, quality average h",fabric_quality
+REV00172,KID-3465,4,"good quality for the price, will order again",other
+REV00173,KID-7824,1,"arrived with a tear, disappointed",delivery_damage
+REV00174,KID-6680,1,"arrived with a tear, disappointed",delivery_damage
+REV00175,KID-4097,5,"loved it, perfect for the mehndi function",other
+REV00176,KID-6616,1,"arrived with a tear, disappointed",delivery_damage
+REV00177,MEN-9686,1,got a completely different design than ordered,wrong_item
+REV00178,KID-3161,3,okay product but not what I expected style-wise,changed_mind
+REV00179,KID-4715,1,got a completely different design than ordered,wrong_item
+REV00180,WMN-6785,1,got a completely different design than ordered,wrong_item
+REV00181,MEN-9770,1,"arrived with a tear, disappointed",delivery_damage
+REV00182,WMN-4897,4,"good quality for the price, will order again",other
+REV00183,KID-5266,1,"arrived with a tear, disappointed",delivery_damage
+REV00184,MEN-6192,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00185,KID-9845,2,"not worth the price, quality average hai",fabric_quality
+REV00186,WMN-1408,1,"arrived with a tear, disappointed",delivery_damage
+REV00187,KID-6246,3,okay product but not what I expected style-wise,changed_mind
+REV00188,KID-5748,5,office wear ke liye perfect,other
+REV00189,MEN-8243,1,"arrived with a tear, disappointed",delivery_damage
+REV00190,WMN-3284,3,"runs slightly small, order one size up",fit
+REV00191,WMN-7580,3,"runs slightly small, order one size up",fit
+REV00192,KID-2515,2,"not worth the price, quality average hai",fabric_quality
+REV00193,MEN-9625,1,"arrived with a tear, disappointed",delivery_damage
+REV00194,WMN-9821,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00195,MEN-7462,5,"loved it, perfect for the mehndi function",other
+REV00196,MEN-6915,1,"arrived with a tear, disappointed",delivery_damage
+REV00197,KID-7326,3,"decent, nothing special",other
+REV00198,KID-6047,1,got a completely different design than ordered,wrong_item
+REV00199,WMN-8278,1,"arrived with a tear, disappointed",delivery_damage
+REV00200,KID-3683,3,okay product but not what I expected style-wise,changed_mind
+REV00201,WMN-2410,3,okay product but not what I expected style-wise,changed_mind
+REV00202,WMN-7156,3,okay product but not what I expected style-wise,changed_mind
+REV00203,KID-3865,5,office wear ke liye perfect,other
+REV00204,WMN-4047,4,"good quality for the price, will order again",other
+REV00205,WMN-5947,1,got a completely different design than ordered,wrong_item
+REV00206,MEN-8593,1,got a completely different design than ordered,wrong_item
+REV00207,KID-8742,2,"not worth the price, quality average hai",fabric_quality
+REV00208,KID-5009,3,okay product but not what I expected style-wise,changed_mind
+REV00209,MEN-6927,3,okay product but not what I expected style-wise,changed_mind
+REV00210,KID-8799,1,"arrived with a tear, disappointed",delivery_damage
+REV00211,MEN-1287,3,"runs slightly small, order one size up",fit
+REV00212,WMN-6237,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00213,KID-3675,4,"good quality for the price, will order again",other
+REV00214,WMN-5749,3,okay product but not what I expected style-wise,changed_mind
+REV00215,MEN-4002,1,"arrived with a tear, disappointed",delivery_damage
+REV00216,MEN-6285,1,"arrived with a tear, disappointed",delivery_damage
+REV00217,KID-6939,5,office wear ke liye perfect,other
+REV00218,WMN-9489,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00219,WMN-2678,3,okay product but not what I expected style-wise,changed_mind
+REV00220,KID-8544,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00221,WMN-8856,2,"chota nikla, size up lena chahiye tha",fit
+REV00222,WMN-8240,5,office wear ke liye perfect,other
+REV00223,WMN-5991,1,"arrived with a tear, disappointed",delivery_damage
+REV00224,MEN-3332,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00225,WMN-3133,1,got a completely different design than ordered,wrong_item
+REV00226,WMN-1308,3,okay product but not what I expected style-wise,changed_mind
+REV00227,WMN-2766,3,okay product but not what I expected style-wise,changed_mind
+REV00228,KID-1709,3,okay product but not what I expected style-wise,changed_mind
+REV00229,MEN-4365,2,"chota nikla, size up lena chahiye tha",fit
+REV00230,MEN-6759,1,"fabric bhut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00231,MEN-6698,5,office wear ke liye perfect,other
+REV00232,MEN-2119,1,"arrived with a tear, disappointed",delivery_damage
+REV00233,MEN-4138,1,"arrived with a tear, disappointed",delivery_damage
+REV00234,MEN-2616,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00235,KID-4033,1,"arrived with a tear, disappointed",delivery_damage
+REV00236,KID-7219,2,"chota nikla, size up lena chahiye tha",fit
+REV00237,KID-2848,1,"arrived with a tear, disappointed",delivery_damage
+REV00238,KID-2807,1,got a completely different design than ordered,wrong_item
+REV00239,MEN-5723,3,okay product but not what I expected style-wise,changed_mind
+REV00240,KID-9088,2,"chota nikla, size up lena chahiye tha",fit
+REV00241,MEN-8273,3,okay product but not what I expected style-wise,changed_mind
+REV00242,WMN-2140,1,got a completely different design than ordered,wrong_item
+REV00243,WMN-1209,3,okay product but not what I expected style-wise,changed_mind
+REV00244,KID-8177,3,okay product but not what I expected style-wise,changed_mind
+REV00245,WMN-3348,5,"loved it, perfect for the mehndi function",other
+REV00246,MEN-3764,5,"loved it, perfect for the mehndi function",other
+REV00247,MEN-7623,1,got a completely different design than ordered,wrong_item
+REV00248,KID-5472,3,"decent, nothing special",other
+REV00249,KID-8795,3,"decent, nothing special",other
+REV00250,MEN-5569,3,okay product but not what I expected style-wise,changed_mind
+REV00251,KID-9017,2,"chota nikla, size up lena chahiye tha",fit
+REV00252,WMN-2631,4,"good quality for the price, will order again",other
+REV00253,MEN-1438,3,"runs slightly small, order one size up",fit
+REV00254,WMN-5960,3,okay product but not what I expected style-wise,changed_mind
+REV00255,MEN-9518,2,"chota nikla, size up lena chahiye tha",fit
+REV00256,KID-9157,3,okay product but not what I expected style-wise,changed_mind
+REV00257,MEN-9955,1,got a completely different design than ordered,wrong_item
+REV00258,KID-8374,3,okay product but not what I expected style-wise,changed_mind
+REV00259,KID-1589,3,okay product but not what I expected style-wise,changed_mind
+REV00260,KID-8056,4,"good quality for the price, will order again",other
+REV00261,MEN-9037,3,okay product but not what I expected style-wise,changed_mind
+REV00262,KID-3560,3,"decent, nothing special",other
+REV00263,KID-7189,3,okay product but not what I expected style-wise,changed_mind
+REV00264,KID-2006,1,got a completely different design than ordered,wrong_item
+REV00265,KID-1440,2,"not worth the price, quality average hai",fabric_quality
+REV00266,KID-2594,5,office wear ke liye perfect,other
+REV00267,KID-1924,1,got a completely different design than ordered,wrong_item
+REV00268,MEN-6113,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00269,KID-2875,5,"loved it, perfect for the mehndi function",other
+REV00270,WMN-8551,3,"runs slightly small, order one size up",fit
+REV00271,KID-1334,3,okay product but not what I expected style-wise,changed_mind
+REV00272,KID-7188,1,"arrived with a tear, disappointed",delivery_damage
+REV00273,KID-2639,1,got a completely different design than ordered,wrong_item
+REV00274,KID-9237,2,"not worth the price, quality average hai",fabric_quality
+REV00275,WMN-5907,5,office wear ke liye perfect,other
+REV00276,KID-2234,3,okay product but not what I expected style-wise,changed_mind
+REV00277,KID-5344,1,"arrived with a tear, disappointed",delivery_damage
+REV00278,MEN-2552,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00279,MEN-9700,1,got a completely different design than ordered,wrong_item
+REV00280,WMN-5945,2,"not worth the price, quality average hai",fabric_quality
+REV00281,MEN-9846,1,got a completely different design than ordered,wrong_item
+REV00282,KID-9443,3,okay product but not what I expected style-wise,changed_mind
+REV00283,WMN-9457,1,"arrived with a tear, disappointed",delivery_damage
+REV00284,WMN-8656,1,"arrived with a tear, disappointed",delivery_damage
+REV00285,MEN-4287,1,"arrived with a tear, disappointed",delivery_damage
+REV00286,WMN-5919,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00287,WMN-4335,3,okay product but not what I expected style-wise,changed_mind
+REV00288,MEN-3631,1,got a completely different design than ordered,wrong_item
+REV00289,WMN-3456,3,okay product but not what I expected style-wise,changed_mind
+REV00290,KID-8145,1,got a completely different design than ordered,wrong_item
+REV00291,WMN-5468,2,"chota nikla, size up lena chahiye tha",fit
+REV00292,MEN-1691,1,got a completely different design than ordered,wrong_item
+REV00293,WMN-2375,3,okay product but not what I expected style-wise,changed_mind
+REV00294,KID-6954,1,got a completely different design than ordered,wrong_item
+REV00295,MEN-3302,3,"runs slightly small, order one size up",fit
+REV00296,KID-2478,1,"arrived with a tear, disappointed",delivery_damage
+REV00297,MEN-7388,1,got a completely different design than ordered,wrong_item
+REV00298,KID-4571,4,"good quality for the price, will order again",other
+REV00299,KID-7690,2,"not worth the price, quality average h",fabric_quality
+REV00300,MEN-2850,3,okay product but not what I expected style-wise,changed_mind
+REV00301,MEN-5036,3,okay product but not what I expected style-wise,changed_mind
+REV00302,KID-7025,2,"not worth the price, quality average hai",fabric_quality
+REV00303,MEN-1895,2,"chota nikla, size up lena chahiye tha",fit
+REV00304,KID-7302,4,"good quality for the price, will order again",other
+REV00305,MEN-2999,5,office wear ke liye perfect,other
+REV00306,KID-1128,2,"not worth the price, quality average hai",fabric_quality
+REV00307,KID-2478,3,okay product but not what I expected style-wise,changed_mind
+REV00308,WMN-3625,2,"not worth the price, quality average hai",fabric_quality
+REV00309,MEN-7656,5,office wear ke liye perfect,other
+REV00310,KID-8718,1,got a completely different design than ordered,wrong_item
+REV00311,WMN-3627,1,got a completely different design than ordered,wrong_item
+REV00312,KID-7895,1,"arrived with a tear, disappointed",delivery_damage
+REV00313,KID-1448,1,"arrived with a tear, disappointed",delivery_damage
+REV00314,MEN-8264,4,"good quality for the price, will order again",other
+REV00315,KID-4278,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00316,WMN-3585,1,got a completely different design than ordered,wrong_item
+REV00317,KID-8397,1,"arrived with a tear, disappointed",delivery_damage
+REV00318,KID-3842,4,"good quality for the price, will order again",other
+REV00319,WMN-2382,1,got a completely different design than ordered,wrong_item
+REV00320,KID-4677,2,"not worth the price, quality average h",fabric_quality
+REV00321,WMN-8576,1,"arrived with a tear, disappointed",delivery_damage
+REV00322,MEN-8027,3,"runs slightly small, order one size up",fit
+REV00323,KID-3787,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00324,MEN-9615,2,"chota nikla, size up lena chahiye tha",fit
+REV00325,WMN-4677,3,okay product but not what I expected style-wise,changed_mind
+REV00326,KID-9096,2,"not worth the price, quality average hai",fabric_quality
+REV00327,MEN-4531,3,okay product but not what I expected style-wise,changed_mind
+REV00328,KID-3955,1,got a completely different design than ordered,wrong_item
+REV00329,KID-5289,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00330,MEN-8506,2,"not worth the price, quality average hai",fabric_quality
+REV00331,MEN-7513,2,"not worth the price, quality average hai",fabric_quality
+REV00332,MEN-7935,3,"decent, nothing special",other
+REV00333,WMN-1962,1,got a completely different design than ordered,wrong_item
+REV00334,MEN-1745,3,okay product but not what I expected style-wise,changed_mind
+REV00335,MEN-7076,1,got a completely different design than ordered,wrong_item
+REV00336,KID-3783,1,"arrived with a tear, disappointed",delivery_damage
+REV00337,WMN-2468,1,got a completely different design than ordered,wrong_item
+REV00338,WMN-5266,1,"arrived with a tear, disappointed",delivery_damage
+REV00339,KID-6907,2,"not worth the price, quality average hai",fabric_quality
+REV00340,MEN-5321,1,got a completely different design than ordered,wrong_item
+REV00341,KID-9049,3,okay product but not what I expected style-wise,changed_mind
+REV00342,WMN-4095,2,"not worth the price, quality average hai",fabric_quality
+REV00343,KID-5263,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00344,KID-1668,3,okay product but not what I expected style-wise,changed_mind
+REV00345,KID-9077,3,"decent, nothing special",other
+REV00346,WMN-4337,3,"runs slightly small, order one size up",fit
+REV00347,MEN-9335,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00348,MEN-1067,1,"arrived with a tear, disappointed",delivery_damage
+REV00349,KID-2258,1,"arrived with a tear, disappointed",delivery_damage
+REV00350,KID-1425,5,"loved it, perfect for the mehndi function",other
+REV00351,MEN-2737,3,okay product but not what I expected style-wise,changed_mind
+REV00352,WMN-8540,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00353,KID-5412,3,"decent, nothing special",other
+REV00354,WMN-8423,3,"runs slightly small, order one size up",fit
+REV00355,WMN-1797,4,"good quality for the price, will order again",other
+REV00356,WMN-2158,1,got a completely different design than ordered,wrong_item
+REV00357,WMN-7534,1,"arrived with a tear, disappointed",delivery_damage
+REV00358,WMN-4411,3,okay product but not what I expected style-wise,changed_mind
+REV00359,WMN-5891,1,got a completely different design than ordered,wrong_item
+REV00360,MEN-3151,3,okay product but not what I expected style-wise,changed_mind
+REV00361,MEN-4274,3,"runs slightly small, order one size up",fit
+REV00362,KID-7931,3,okay product but not what I expected style-wise,changed_mind
+REV00363,KID-7979,1,got a completely different design than ordered,wrong_item
+REV00364,MEN-3540,3,okay product but not what I expected style-wise,changed_mind
+REV00365,KID-8671,1,"arrived with a tear, disappointed",delivery_damage
+REV00366,WMN-3093,3,okay product but not what I expected style-wise,changed_mind
+REV00367,MEN-8007,1,got a completely different design than ordered,wrong_item
+REV00368,WMN-9411,1,"arrived with a tear, disappointed",delivery_damage
+REV00369,KID-5151,3,okay product but not what I expected style-wise,changed_mind
+REV00370,MEN-1266,1,"arrived with a tear, disappointed",delivery_damage
+REV00371,KID-1741,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00372,MEN-8371,1,got a completely different design than ordered,wrong_item
+REV00373,WMN-4458,1,got a completely different design than ordered,wrong_item
+REV00374,KID-9755,5,"loved it, perfect for the mehndi function",other
+REV00375,WMN-8817,2,"chota nikla, size up lena chahiye tha",fit
+REV00376,KID-6910,3,okay product but not what I expected style-wise,changed_mind
+REV00377,KID-2435,3,"decent, nothing special",other
+REV00378,WMN-4083,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00379,MEN-3378,2,"not worth the price, quality average hai",fabric_quality
+REV00380,WMN-5930,3,okay product but not what I expected style-wise,changed_mind
+REV00381,KID-1357,2,"not worth the price, quality average hai",fabric_quality
+REV00382,KID-8724,3,"decent, nothing special",other
+REV00383,WMN-5830,1,"arrived with a tear, disappointed",delivery_damage
+REV00384,KID-1129,3,okay product but not what I expected style-wise,changed_mind
+REV00385,MEN-5764,3,okay product but not what I expected style-wise,changed_mind
+REV00386,WMN-1994,3,okay product but not what I expected style-wise,changed_mind
+REV00387,MEN-2040,3,okay product but not what I expected style-wise,changed_mind
+REV00388,KID-6681,3,okay product but not what I expected style-wise,changed_mind
+REV00389,WMN-5718,3,okay product but not what I expected style-wise,changed_mind
+REV00390,KID-4802,3,okay product but not what I expected style-wise,changed_mind
+REV00391,MEN-8675,1,"arrived with a tear, disappointed",delivery_damage
+REV00392,KID-6902,3,"decent, nothing special",other
+REV00393,KID-2412,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00394,WMN-3561,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00395,KID-5975,3,"runs slightly small, order one size up",fit
+REV00396,KID-6849,3,"runs slightly small, order one size up",fit
+REV00397,WMN-6533,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00398,WMN-4671,1,"arrived with a tear, disappointed",delivery_damage
+REV00399,WMN-5382,1,got a completely different design than ordered,wrong_item
+REV00400,MEN-1826,5,"loved it, perfect for the mehndi function",other
+REV00401,WMN-2734,3,okay product but not what I expected style-wise,changed_mind
+REV00402,MEN-1687,1,"arrived with a tear, disappointed",delivery_damage
+REV00403,WMN-6925,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00404,MEN-9165,3,"decent, nothing special",other
+REV00405,MEN-6959,2,"chota nikla, size up lena chahiye tha",fit
+REV00406,WMN-8194,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00407,KID-6592,2,"chota nikla, size up lena chahiye tha",fit
+REV00408,KID-7799,3,"runs slightly small, order one size up",fit
+REV00409,WMN-9677,4,"good quality for the price, will order again",other
+REV00410,KID-7773,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00411,WMN-8251,3,okay product but not what I expected style-wise,changed_mind
+REV00412,WMN-6542,5,"loved it, perfect for the mehndi function",other
+REV00413,WMN-7443,2,"not worth the price, quality average hai",fabric_quality
+REV00414,MEN-1947,4,"good quality for the price, will order again",other
+REV00415,KID-7586,5,office wear ke liye perfect,other
+REV00416,MEN-6139,5,office wear ke liye perfect,other
+REV00417,MEN-3406,3,"runs slightly small, order one size up",fit
+REV00418,MEN-8244,3,okay product but not what I expected style-wise,changed_mind
+REV00419,WMN-5940,3,"decent, nothing special",other
+REV00420,MEN-9860,3,okay product but not what I expected style-wise,changed_mind
+REV00421,MEN-6582,1,"arrived with a tear, disappointed",delivery_damage
+REV00422,WMN-9846,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00423,MEN-7926,2,"not worth the price, quality average hai",fabric_quality
+REV00424,KID-5255,2,"chota nikla, size up lena chahiye tha",fit
+REV00425,WMN-3043,1,got a completely different design than ordered,wrong_item
+REV00426,KID-6553,1,"arrived with a tear, disappointed",delivery_damage
+REV00427,KID-5902,4,"good quality for the price, will order again",other
+REV00428,MEN-5057,3,"decent, nothing special",other
+REV00429,WMN-3401,1,got a completely different design than ordered,wrong_item
+REV00430,WMN-2018,3,okay product but not what I expected style-wise,changed_mind
+REV00431,WMN-8309,2,"not worth the price, quality average hai",fabric_quality
+REV00432,KID-9172,1,"arrived with a tear, disappointed",delivery_damage
+REV00433,MEN-7830,3,okay product but not what I expected style-wise,changed_mind
+REV00434,KID-8499,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00435,KID-8755,4,"good quality for the price, will order again",other
+REV00436,WMN-7694,1,"arrived with a tear, disappointed",delivery_damage
+REV00437,WMN-9565,1,"arrived with a tear, disappointed",delivery_damage
+REV00438,KID-5816,1,got a completely different design than ordered,wrong_item
+REV00439,MEN-7910,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00440,WMN-9008,1,got a completely different design than ordered,wrong_item
+REV00441,KID-8883,2,"chota nikla, size up lena chahiye tha",fit
+REV00442,KID-7181,1,"arrived with a tear, disappointed",delivery_damage
+REV00443,WMN-9270,4,"good quality for the price, will order again",other
+REV00444,WMN-6328,3,okay product but not what I expected style-wise,changed_mind
+REV00445,KID-6554,3,okay product but not what I expected style-wise,changed_mind
+REV00446,MEN-5544,3,"decent, nothing special",other
+REV00447,MEN-6060,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00448,WMN-9877,2,"chota nikla, size up lena chahiye tha",fit
+REV00449,KID-9235,2,"chota nikla, size up lena chahiye tha",fit
+REV00450,WMN-5504,2,"chota nikla, size up lena chahiye tha",fit
+REV00451,WMN-9741,2,"not worth the price, quality average hai",fabric_quality
+REV00452,KID-1381,3,okay product but not what I expected style-wise,changed_mind
+REV00453,WMN-9649,2,"not worth the price, quality average hai",fabric_quality
+REV00454,WMN-2627,1,got a completely different design than ordered,wrong_item
+REV00455,WMN-5187,1,got a completely different design than ordered,wrong_item
+REV00456,KID-3772,2,"not worth the price, quality average hai",fabric_quality
+REV00457,MEN-1958,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00458,KID-6311,1,got a completely different design than ordered,wrong_item
+REV00459,WMN-4874,2,"chota nikla, size up lena chahiye tha",fit
+REV00460,WMN-5412,1,"arrived with a tear, disappointed",delivery_damage
+REV00461,WMN-8932,1,"arrived with a tear, disappointed",delivery_damage
+REV00462,MEN-2663,3,"runs slightly small, order one size up",fit
+REV00463,KID-2374,1,got a completely different design than ordered,wrong_item
+REV00464,WMN-7116,1,"arrived with a tear, disappointed",delivery_damage
+REV00465,MEN-7942,1,"fabric bahut kharab, do wash mein hi kharab ho gaya",fabric_quality
+REV00466,WMN-1016,1,"arrived with a tear, disappointed",delivery_damage
+REV00467,MEN-3742,1,"arrived with a tear, disappointed",delivery_damage
+REV00468,MEN-7228,1,got a completely different design than ordered,wrong_item
+REV00469,MEN-9361,4,"good quality for the price, will order again",other
+REV00470,KID-2469,5,"loved it, perfect for the mehndi function",other
+REV00471,MEN-5578,2,"chota nikla, size up lena chahiye tha",fit
+REV00472,MEN-6613,2,"not worth the price, quality average hai",fabric_quality
+REV00473,KID-5029,3,"decent, nothing special",other
+REV00474,WMN-8533,1,got a completely different design than ordered,wrong_item
+REV00475,MEN-3190,1,got a completely different design than ordered,wrong_item
+REV00476,WMN-1156,3,"runs slightly small, order one size up",fit
+REV00477,KID-9816,3,okay product but not what I expected style-wise,changed_mind
+REV00478,MEN-8293,1,"arrived with a tear, disappointed",delivery_damage
+REV00479,MEN-6864,1,got a completely different design than ordered,wrong_item
+REV00480,WMN-8580,5,"loved it, perfect for the mehndi function",other
+REV00481,WMN-4629,2,"not worth the price, quality average hai",fabric_quality
+REV00482,WMN-2474,1,got a completely different design than ordered,wrong_item
+REV00483,MEN-4623,5,office wear ke liye perfect,other
+REV00484,KID-9074,1,got a completely different design than ordered,wrong_item
+REV00485,WMN-4212,4,"good quality for the price, will order again",other
+REV00486,WMN-5544,3,"decent, nothing special",other
+REV00487,MEN-4174,3,okay product but not what I expected style-wise,changed_mind
+REV00488,WMN-3101,1,"arrived with a tear, disappointed",delivery_damage
+REV00489,MEN-4734,2,"not worth the price, quality average hai",fabric_quality
+REV00490,WMN-1378,5,office wear ke liye perfect,other
+REV00491,MEN-8437,5,office wear ke liye perfect,other
+REV00492,KID-8086,5,"loved it, perfect for the mehndi function",other
+REV00493,WMN-9491,3,okay product but not what I expected style-wise,changed_mind
+REV00494,MEN-4678,1,got a completely different design than ordered,wrong_item
+REV00495,KID-1084,1,"arrived with a tear, disappointed",delivery_damage
+REV00496,MEN-1415,1,got a completely different design than ordered,wrong_item
+REV00497,WMN-5095,2,"not worth the price, quality average hai",fabric_quality
+REV00498,MEN-2584,1,got a completely different design than ordered,wrong_item
+REV00499,KID-5049,3,"runs slightly small, order one size up",fit
