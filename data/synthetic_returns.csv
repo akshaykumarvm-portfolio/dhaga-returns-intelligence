@@ -1,501 +1,501 @@
 return_id,order_id,sku,dropdown_reason,free_text,true_category
-RET00000,2a5d82aa,WMN-3286,Other,just didn't like it,other
-RET00001,328d883e,WMN-2535,Other,expected better tbh,other
-RET00002,97fe8df2,MEN-5557,Other,"box was crushed, product damaged inside",delivery_damage
-RET00003,ccc20de7,WMN-4527,Other,"runs small, ordered my usual XL but it doesn't fit at all",fit
-RET00004,0f1597fc,KID-6635,Other,ordered beige kurti mila green bheja,wrong_item
-RET00005,0a7dc813,MEN-5803,Other,"too loose around the waist, need one size down",fit
-RET00006,5b82136f,MEN-4733,Other,stains on the fabric on arrival,delivery_damage
-RET00007,5de74870,KID-6977,Other,"runs small, ordered my usual S but it doesn't fit at all",fit
-RET00008,bef145f7,MEN-5010,Other,"material feels cheap, not like the photos",fabric_quality
-RET00009,2bcdc777,WMN-6168,Other,"wrong size delivered, ordered L got S",wrong_item
-RET00010,7faf615f,KID-7482,Other,"runs small, ordered my usual L but it doesn't fit at all",fit
-RET00011,5334a12f,WMN-9830,Other,"meh, thik nahi laga",other
-RET00012,460b86ac,MEN-9085,Other,zip broken jab khola tab,delivery_damage
-RET00013,4d140c1a,WMN-7304,Other,"runs small, ordered my usual M but it doesn't fit at all",fit
-RET00014,b992b7e2,MEN-5371,Other,"ordered by mistake, cancel kardo",changed_mind
-RET00015,9ec086d6,KID-1053,Other,ordered beige kurti mila green bheja,wrong_item
-RET00016,74a54ed2,KID-9317,Other,"return kar rahi hu, bas pasand nahi aaya",other
-RET00017,3b3e8608,KID-9005,Other,"material feels cheap, not like the photos",fabric_quality
-RET00018,73186c6e,WMN-2403,Other,"wrong size delivered, ordered L got S",wrong_item
-RET00019,9d69cef9,KID-3705,Other,"fitting sahi nahi hai, length bhi short hai",fit
-RET00020,731e5fc7,MEN-7118,Other,"quality bahut kharab, paisa waste",fabric_quality
-RET00021,e59c222c,WMN-6539,Other,zip broken jab khola tab,delivery_damage
-RET00022,ea362f97,MEN-1964,Other,"box was crushed, product damaged inside",delivery_damage
-RET00023,072f1da6,KID-4510,Other,ordered black kurti mila maroon bheja,wrong_item
-RET00024,801d9814,KID-4119,Other,expected better tbh,other
-RET00025,1f241362,WMN-2612,Other,received a men's item instead of kidswear,wrong_item
-RET00026,574eb922,KID-3296,Other,"runs small, ordered my usual M but it doesn't fit at all",fit
-RET00027,4a41ae35,MEN-2604,Other,received a men's item instead of kidswear,wrong_item
-RET00028,6ea8d043,KID-4502,Other,"runs small, ordered my usual M but it doesn't fit at all",fit
-RET00029,f96ab17c,KID-8454,Other,"runs small, ordered my usual XL but it doesn't fit at all",fit
-RET00030,00a36ea4,MEN-9883,Other,stitching came apart after one wear,fabric_quality
-RET00031,9f9eb1ed,MEN-2312,Other,"size chart galat tha, XL order kiya but bahut tight aaya",fit
-RET00032,bd68cb91,WMN-5033,Other,"fitting sahi nahi hai, length bhi short hai",fit
-RET00033,1d879606,MEN-9565,Other,"fitting sahi nahi hai, length bhi short hai",fit
-RET00034,cc1d4533,KID-3144,Other,"wrong size delivered, ordered L got S",wrong_item
-RET00035,b5bfda46,KID-2638,Other,received a men's item instead of kidswear,wrong_item
-RET00036,ef73ee5b,WMN-7054,Other,stains on the fabric on arrival,delivery_damage
-RET00037,4bee60f2,WMN-3200,Other,stains on the fabric on arrival,delivery_damage
-RET00038,24759b21,MEN-4450,Other,expected better tbh,other
-RET00039,6721f257,WMN-7939,Other,"material feels cheap, not like the photos",fabric_quality
-RET00040,5815c7d1,KID-3647,Other,"size chart galat tha, L order kiya but bahut tight aaya",fit
-RET00041,ea495605,MEN-3442,Other,zip broken jab khola tab,delivery_damage
-RET00042,f581f09a,KID-6974,Other,"wrong size delivered, ordered L got S",wrong_item
-RET00043,8c026e51,WMN-6794,Other,"kandhe se tight hai, return kar rahi hu",fit
-RET00044,e06c6b61,KID-1406,Other,found a better option elsewhere,changed_mind
-RET00045,e5b47e08,WMN-7267,Other,found a better option elsewhere,changed_mind
-RET00046,aa4125cf,KID-4728,Other,found a better option elsewhere,changed_mind
-RET00047,22c7a0b0,KID-9346,Other,"ordered by mistake, cancel kardo",changed_mind
-RET00048,f5e27d8b,WMN-5349,Other,stains on the fabric on arrival,delivery_damage
-RET00049,2acf6d61,MEN-4114,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
-RET00050,b027cad2,WMN-6409,Other,"fitting sahi nahi hai, length bhi short hai",fit
-RET00051,7470ef12,KID-6344,Other,just didn't like it,other
-RET00052,85f713d5,KID-3851,Other,"wrong size delivered, ordered L got S",wrong_item
-RET00053,502929ec,WMN-8043,Other,received a men's item instead of kidswear,wrong_item
-RET00054,78d492f1,MEN-4501,Other,stains on the fabric on arrival,delivery_damage
-RET00055,fda9a07b,MEN-6491,Other,not as expected,other
-RET00056,3826ac87,WMN-1757,Other,"return kar rahi hu, bas pasand nahi aaya",other
-RET00057,dcb1e1d3,MEN-4185,Other,"packet phata hua aaya, item torn hai",delivery_damage
-RET00058,48c51d1a,MEN-1090,Other,not required anymore,changed_mind
-RET00059,1a06a419,MEN-8611,Other,"too loose around the waist, need one size down",fit
-RET00060,45800914,MEN-6198,Other,"too loose around the waist, need one size down",fit
-RET00061,e628ca5c,KID-8373,Other,not required anymore,changed_mind
-RET00062,a56fcc72,KID-2269,Other,"return kar rahi hu, bas pasand nahi aaya",other
-RET00063,6676713d,WMN-3267,Other,"material feels cheap, not like the photos",fabric_quality
-RET00064,9b59feb7,KID-6421,Other,not as expected,other
-RET00065,ef2ec350,MEN-1320,Other,"no longer needed, changed my mind",changed_mind
-RET00066,e009ff1f,KID-7389,Other,zip broken jab khola tab,delivery_damage
-RET00067,14780c10,KID-8956,Other,found a better option elsewhere,changed_mind
-RET00068,3e2c3018,MEN-9751,Other,"meh, thik nahi laga",other
-RET00069,c1c58d0b,KID-3977,Other,"packet phata hua aaya, item torn hai",delivery_damage
-RET00070,4c510233,KID-5558,Other,"wrong size delivered, ordered L got S",wrong_item
-RET00071,aa13ac44,MEN-9837,Other,"ordered by mistake, cancel kardo",changed_mind
-RET00072,3afb4e6f,WMN-1333,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
-RET00073,1aa34a86,WMN-8619,Other,stitching came apart after one wear,fabric_quality
-RET00074,0254d482,WMN-1420,Other,"wrong size delivered, ordered L got S",wrong_item
-RET00075,bca48003,MEN-4978,Other,zip broken jab khola tab,delivery_damage
-RET00076,1340a944,MEN-8018,Other,expected better tbh,other
-RET00077,232cfc78,KID-2729,Other,"fitting sahi nahi hai, length bhi short hai",fit
-RET00078,b7367b97,MEN-9548,Other,received a men's item instead of kidswear,wrong_item
-RET00079,f92db8a6,MEN-5397,Other,received a men's item instead of kidswear,wrong_item
-RET00080,804575f3,KID-7209,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
-RET00081,a75610ed,KID-5232,Other,"ordered by mistake, cancel kardo",changed_mind
-RET00082,2d8819c0,WMN-7658,Other,stains on the fabric on arrival,delivery_damage
-RET00083,f583559a,WMN-5820,Other,color ekdum different tha jo dikha tha usse,fabric_quality
-RET00084,ef856124,MEN-6419,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
-RET00085,943f7878,WMN-4155,Other,"ordered by mistake, cancel kardo",changed_mind
-RET00086,573d0b39,MEN-8933,Other,expected better tbh,other
-RET00087,4932d05b,WMN-5952,Other,"runs small, ordered my usual L but it doesn't fit at all",fit
-RET00088,b3025c8a,WMN-9042,Other,ordered black kurti mila maroon bheja,wrong_item
-RET00089,f39c7cd5,KID-4020,Other,stains on the fabric on arrival,delivery_damage
-RET00090,fb9f19f6,KID-2213,Other,received a men's item instead of kidswear,wrong_item
-RET00091,402813d6,KID-2395,Other,just didn't like it,other
-RET00092,6960add3,KID-8381,Other,"fitting sahi nahi hai, length bhi short hai",fit
-RET00093,0074d495,MEN-2625,Other,received a men's item instead of kidswear,wrong_item
-RET00094,2284988b,WMN-3847,Other,stitching came apart after one wear,fabric_quality
-RET00095,077b587e,MEN-8699,Other,"fabric bhut thin hai, first wash mein hi fade ho gaya",fabric_quality
-RET00096,5b36d05b,WMN-5334,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
-RET00097,5051e736,MEN-4683,Other,expected better tbh,other
-RET00098,cdff2abc,KID-5728,Other,"wrong size delivered, ordered L got S",wrong_item
-RET00099,885802d2,MEN-9090,Other,"ordered by mistake, cancel kardo",changed_mind
-RET00100,e62d526c,KID-1423,Other,"packet phata hua aaya, item torn h",delivery_damage
-RET00101,5418feeb,MEN-8245,Other,"return kar rahi hu, bas pasand nahi aaya",other
-RET00102,535812b6,KID-6700,Other,"quality bahut kharab, paisa waste",fabric_quality
-RET00103,ba884623,MEN-9117,Other,ordered black kurti mila white bheja,wrong_item
-RET00104,2917368d,KID-6296,Other,"packet phata hua aaya, item torn hai",delivery_damage
-RET00105,16cb36fb,WMN-9494,Other,"packet phata hua aaya, item torn hai",delivery_damage
-RET00106,a79a443f,MEN-3146,Other,not required anymore,changed_mind
-RET00107,236552d7,MEN-4920,Other,not required anymore,changed_mind
-RET00108,262af028,WMN-8560,Other,ordered red kurti mila green bheja,wrong_item
-RET00109,0c2e5b48,MEN-5479,Other,not as expected,other
-RET00110,f2718541,WMN-7284,Other,not required anymore,changed_mind
-RET00111,7423e0b1,KID-1042,Other,"kandhe se tight hai, return kar rahi hu",fit
-RET00112,3cd993f1,KID-6654,Other,zip broken jab khola tab,delivery_damage
-RET00113,beb9e63c,MEN-4912,Other,zip broken jab khola tab,delivery_damage
-RET00114,1fb66888,KID-7246,Other,color ekdum different tha jo dikha tha usse,fabric_quality
-RET00115,0eea9cf3,MEN-6439,Other,not as expected,other
-RET00116,dac42a02,WMN-7717,Other,"no longer needed, changed my mind",changed_mind
-RET00117,6e3fa93f,MEN-7512,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
-RET00118,89516c93,WMN-2121,Other,received a men's item instead of kidswear,wrong_item
-RET00119,624e862a,MEN-2646,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
-RET00120,854e3f6c,WMN-5806,Other,"return kar rahi hu, bas pasand nahi aaya",other
-RET00121,09c1c5a2,MEN-3950,Other,found a better option elsewhere,changed_mind
-RET00122,7a149996,WMN-4804,Other,zip broken jab khola tab,delivery_damage
-RET00123,12a733ae,KID-9955,Other,recieved a men's item instead of kidswear,wrong_item
-RET00124,c6f30e7a,KID-4263,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
-RET00125,8667ed6e,KID-5847,Other,"no longer needed, changed my mind",changed_mind
-RET00126,0a3844c6,MEN-1803,Other,ordered black kurti mila green bheja,wrong_item
-RET00127,792f4cd9,KID-4588,Other,"meh, thik nahi laga",other
-RET00128,7cd104d6,MEN-1645,Other,stains on the fabric on arrival,delivery_damage
-RET00129,8d52d20e,KID-6352,Other,"no longer needed, changed my mind",changed_mind
-RET00130,aacbeef6,MEN-5465,Other,stitching came apart after one wear,fabric_quality
-RET00131,727bfe2b,KID-2233,Other,received a men's item instead of kidswear,wrong_item
-RET00132,22266656,WMN-5332,Other,"meh, thik nahi laga",other
-RET00133,637bf7fb,KID-2775,Other,"ordered by mistake, cancel kardo",changed_mind
-RET00134,14207ef6,WMN-8606,Other,"no longer needed, changed my mind",changed_mind
-RET00135,864b207b,WMN-5986,Other,received a men's item instead of kidswear,wrong_item
-RET00136,f35e0496,KID-7078,Other,"size chart galat tha, M order kiya but bahut tight aaya",fit
-RET00137,7c5e01ef,MEN-2622,Other,expected better tbh,other
-RET00138,55c583a5,KID-4559,Other,zip broken jab khola tab,delivery_damage
-RET00139,ca1c6977,MEN-6876,Other,"material feels cheap, not like the photos",fabric_quality
-RET00140,e81a49c5,WMN-1349,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
-RET00141,8624abf0,WMN-4538,Other,stitching came apart after one wear,fabric_quality
-RET00142,20937d83,WMN-3129,Other,"material feels cheap, not like the photos",fabric_quality
-RET00143,41f1fbf8,KID-4898,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
-RET00144,32d043d0,MEN-7897,Other,"runs small, ordered my usual L but it doesn't fit at all",fit
-RET00145,f08c3490,MEN-2786,Other,just didn't like it,other
-RET00146,34a85c55,MEN-1510,Other,"quality bahut kharab, paisa waste",fabric_quality
-RET00147,c65d7d4c,KID-2204,Other,not required anymore,changed_mind
-RET00148,7b9d1f2b,MEN-9984,Other,"wrong size delivered, ordered L got S",wrong_item
-RET00149,d5638c1f,MEN-2874,Other,"ordered by mistake, cancel kardo",changed_mind
-RET00150,4be4ce97,WMN-7779,Other,expected better tbh,other
-RET00151,7b70eca5,KID-6120,Other,not required anymore,changed_mind
-RET00152,010f1905,WMN-2527,Other,"wrong size delivered, ordered L got S",wrong_item
-RET00153,9f7e7268,MEN-6400,Other,"return kar rahi hu, bas pasand nahi aaya",other
-RET00154,f711c0be,MEN-6119,Other,"ordered by mistake, cancel kardo",changed_mind
-RET00155,7ebd3d0a,WMN-6736,Other,"box was crushed, product damaged inside",delivery_damage
-RET00156,e8a0ae34,MEN-1430,Other,ordered blue kurti mila white bheja,wrong_item
-RET00157,adf7c646,MEN-6062,Other,"return kar rahi hu, bas pasand nahi aaya",other
-RET00158,aed36fc3,MEN-7566,Other,ordered blue kurti mila maroon bheja,wrong_item
-RET00159,98f1aea8,KID-6585,Other,"fitting sahi nahi hai, length bhi short hai",fit
-RET00160,acf5a20e,WMN-1815,Other,"return kar rahi hu, bas pasand nahi aaya",other
-RET00161,3d3e9d63,KID-7785,Other,received a men's item instead of kidswear,wrong_item
-RET00162,205856b0,MEN-8972,Other,received a men's item instead of kidswear,wrong_item
-RET00163,528fe193,WMN-1125,Other,ordered beige kurti mila maroon bheja,wrong_item
-RET00164,9b19ebdd,WMN-9149,Other,"material feels cheap, not like the photos",fabric_quality
-RET00165,22b0f97d,MEN-6802,Other,stitching came apart after one wear,fabric_quality
-RET00166,cfed43d0,MEN-8033,Other,"no longer needed, changed my mind",changed_mind
-RET00167,a34a3129,WMN-6321,Other,"meh, thik nahi laga",other
-RET00168,c754f5dd,WMN-8138,Other,"return kar rahi hu, bas pasand nahi aaya",other
-RET00169,534b6fae,KID-4630,Other,"packet phata hua aaya, item torn hai",delivery_damage
-RET00170,c5359c1d,KID-3419,Other,"fabric bhut thin hai, first wash mein hi fade ho gaya",fabric_quality
-RET00171,7f0fab79,WMN-3902,Other,"wrong size delivered, ordered L got S",wrong_item
-RET00172,b3b0ea4d,MEN-6295,Other,"meh, thik nahi laga",other
-RET00173,c608d615,KID-8245,Other,"return kar rahi hu, bas pasand nahi aaya",other
-RET00174,44328967,KID-8404,Other,ordered red kurti mila white bheja,wrong_item
-RET00175,f9b6751b,MEN-1672,Other,ordered beige kurti mila white bheja,wrong_item
-RET00176,fa95c9ec,WMN-2013,Other,"box was crushed, product damaged inside",delivery_damage
-RET00177,c9d2ba57,MEN-8172,Other,ordered red kurti mila green bheja,wrong_item
-RET00178,8d0f4b7e,KID-7697,Other,"box was crushed, product damaged inside",delivery_damage
-RET00179,214d90fb,KID-2548,Other,expected better tbh,other
-RET00180,09337f32,WMN-3317,Other,"ordered by mistake, cancel kardo",changed_mind
-RET00181,3ccfb9a3,MEN-7171,Other,received a men's item instead of kidswear,wrong_item
-RET00182,bc502f6f,KID-1298,Other,"wrong size delivered, ordered L got S",wrong_item
-RET00183,158eae1a,WMN-3253,Other,stitching came apart after one wear,fabric_quality
-RET00184,5239766c,WMN-7172,Other,"fitting sahi nahi hai, length bhi short hai",fit
-RET00185,f7b76433,KID-6968,Other,expected better tbh,other
-RET00186,74edea5c,MEN-4918,Other,color ekdum different tha jo dikha tha usse,fabric_quality
-RET00187,18138679,KID-7256,Other,found a better option elsewhere,changed_mind
-RET00188,01a04900,WMN-8873,Other,found a better option elsewhere,changed_mind
-RET00189,765b7036,WMN-5469,Other,"packet phata hua aaya, item torn hai",delivery_damage
-RET00190,0cd8f122,KID-6727,Other,"box was crushed, product damaged inside",delivery_damage
-RET00191,d7c1c9bd,KID-2337,Other,"no longer needed, changed my mind",changed_mind
-RET00192,e13b4099,WMN-1627,Other,"kandhe se tight hai, return kar rahi hu",fit
-RET00193,3c199c49,WMN-2298,Other,not as expected,other
-RET00194,5fa9745e,WMN-5934,Other,"quality bhut kharab, paisa waste",fabric_quality
-RET00195,c43184bc,MEN-9782,Other,not required anymore,changed_mind
-RET00196,753979fe,MEN-6780,Other,not as expected,other
-RET00197,a35506f5,MEN-9312,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
-RET00198,56a0dbc7,MEN-7338,Other,"packet phata hua aaya, item torn hai",delivery_damage
-RET00199,fa0dfd49,WMN-2698,Other,ordered red kurti mila white bheja,wrong_item
-RET00200,6a690966,MEN-6546,Other,"return kar rahi hu, bas pasand nahi aaya",other
-RET00201,9d3e0f23,WMN-8498,Other,color ekdum different tha jo dikha tha usse,fabric_quality
-RET00202,b60a3e79,MEN-7524,Other,"runs small, ordered my usual S but it doesn't fit at all",fit
-RET00203,c22ec419,WMN-5687,Other,zip broken jab khola tab,delivery_damage
-RET00204,7fef50da,KID-7553,Other,"kandhe se tight hai, return kar rahi hu",fit
-RET00205,b5ea7e0a,KID-7018,Other,"ordered by mistake, cancel kardo",changed_mind
-RET00206,0e331a15,KID-3956,Other,stains on the fabric on arrival,delivery_damage
-RET00207,9cd1b608,KID-6021,Other,ordered black kurti mila maroon bheja,wrong_item
-RET00208,1ff83f15,KID-1693,Other,"meh, thik nahi laga",other
-RET00209,025d6163,MEN-7655,Other,received a men's item instead of kidswear,wrong_item
-RET00210,02613079,MEN-8179,Other,not as expected,other
-RET00211,e4fce1f8,WMN-3513,Other,"material feels cheap, not like the photos",fabric_quality
-RET00212,a31ba10d,WMN-9674,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
-RET00213,6a461c85,MEN-4048,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
-RET00214,92b15fa1,KID-4515,Other,"no longer needed, changed my mind",changed_mind
-RET00215,c3caaff8,WMN-8406,Other,recieved a men's item instead of kidswear,wrong_item
-RET00216,dc927653,MEN-5757,Other,"kandhe se tight hai, return kar rahi hu",fit
-RET00217,0e18a42f,WMN-3275,Other,stitching came apart after one wear,fabric_quality
-RET00218,df053ce4,WMN-2412,Other,"kandhe se tight hai, return kar rahi hu",fit
-RET00219,99d69914,WMN-3053,Other,"meh, thik nahi laga",other
-RET00220,48c94a98,MEN-6644,Other,just didn't like it,other
-RET00221,c5bed6fa,WMN-5982,Other,color ekdum different tha jo dikha tha usse,fabric_quality
-RET00222,703f286b,KID-4216,Other,not as expected,other
-RET00223,e1951b1b,MEN-2530,Other,stains on the fabric on arrival,delivery_damage
-RET00224,1838fab5,MEN-6531,Other,"quality bahut kharab, paisa waste",fabric_quality
-RET00225,1c0f7bd8,MEN-5336,Other,"packet phata hua aaya, item torn hai",delivery_damage
-RET00226,04dedda8,MEN-5745,Other,zip broken jab khola tab,delivery_damage
-RET00227,94090011,KID-2195,Other,received a men's item instead of kidswear,wrong_item
-RET00228,fd653a02,WMN-6573,Other,color ekdum different tha jo dikha tha usse,fabric_quality
-RET00229,dc956970,KID-9437,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
-RET00230,be97112f,KID-5061,Other,"wrong size delivered, ordered L got S",wrong_item
-RET00231,4d17066e,KID-6123,Other,received a men's item instead of kidswear,wrong_item
-RET00232,23e2983e,WMN-2475,Other,not required anymore,changed_mind
-RET00233,0580b643,KID-1797,Other,zip broken jab khola tab,delivery_damage
-RET00234,505b6434,KID-3194,Other,zip broken jab khola tab,delivery_damage
-RET00235,8657f759,KID-1838,Other,"return kar rahi hu, bas pasand nahi aaya",other
-RET00236,4368bfdf,MEN-8378,Other,"material feels cheap, not like the photos",fabric_quality
-RET00237,eb2327b1,KID-6555,Other,ordered red kurti mila white bheja,wrong_item
-RET00238,85d2955d,WMN-1742,Other,"wrong size delivered, ordered L got S",wrong_item
-RET00239,819430bd,MEN-6218,Other,not required anymore,changed_mind
-RET00240,79a3e7fb,WMN-7035,Other,stains on the fabric on arrival,delivery_damage
-RET00241,b3d24e73,KID-5350,Other,"too loose around the waist, need one size down",fit
-RET00242,e7ad7077,MEN-7229,Other,"box was crushed, product damaged inside",delivery_damage
-RET00243,f3017f04,KID-6139,Other,"fitting sahi nahi hai, length bhi short hai",fit
-RET00244,760ea26b,MEN-2020,Other,found a better option elsewhere,changed_mind
-RET00245,e62f2273,KID-6140,Other,"box was crushed, product damaged inside",delivery_damage
-RET00246,63b1a688,KID-4150,Other,"ordered by mistake, cancel kardo",changed_mind
-RET00247,0ddb0836,MEN-4396,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
-RET00248,7e3e08b1,MEN-5480,Other,"ordered by mistake, cancel kardo",changed_mind
-RET00249,1dd5821d,KID-2294,Other,"ordered by mistake, cancel kardo",changed_mind
-RET00250,45bc43c0,MEN-5442,Other,"ordered by mistake, cancel kardo",changed_mind
-RET00251,58c53731,MEN-4920,Other,"return kar rahi hu, bas pasand nahi aaya",other
-RET00252,2d153b8b,KID-8739,Other,not as expected,other
-RET00253,04fe48d7,KID-8822,Other,"fitting sahi nahi hai, length bhi short hai",fit
-RET00254,b12be41b,MEN-4804,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
-RET00255,48da55ef,WMN-7504,Other,just didn't like it,other
-RET00256,6a841f60,MEN-2758,Other,"material feels cheap, not like the photos",fabric_quality
-RET00257,305ad0f8,MEN-8668,Other,"different product bhej diya, ye to kuch aur h",wrong_item
-RET00258,50941315,WMN-1230,Other,"wrong size delivered, ordered L got S",wrong_item
-RET00259,4533da47,MEN-6372,Other,"wrong size delivered, ordered L got S",wrong_item
-RET00260,bc17c86e,WMN-5272,Other,stitching came apart after one wear,fabric_quality
-RET00261,2ea4ecae,MEN-1187,Other,"ordered by mistake, cancel kardo",changed_mind
-RET00262,2f557188,KID-3616,Other,not as expected,other
-RET00263,3c103416,MEN-4618,Other,stains on the fabric on arrival,delivery_damage
-RET00264,1ae6d004,MEN-9998,Other,found a better option elsewhere,changed_mind
-RET00265,3be5f841,KID-9653,Other,"box was crushed, product damaged inside",delivery_damage
-RET00266,72207ff2,MEN-4312,Other,"fitting sahi nahi hai, length bhi short hai",fit
-RET00267,342be991,MEN-4365,Other,stitching came apart after one wear,fabric_quality
-RET00268,1ef6389c,WMN-9409,Other,"no longer needed, changed my mind",changed_mind
-RET00269,c0451369,WMN-7487,Other,"packet phata hua aaya, item torn h",delivery_damage
-RET00270,74693cbe,KID-2044,Other,not as expected,other
-RET00271,b46513ba,KID-3948,Other,"size chart galat tha, XL order kiya but bahut tight aaya",fit
-RET00272,751c28ec,KID-7154,Other,"meh, thik nahi laga",other
-RET00273,929cca81,KID-9664,Other,"return kar rahi hu, bas pasand nahi aaya",other
-RET00274,837f4248,MEN-9920,Other,"size chart galat tha, L order kiya but bahut tight aaya",fit
-RET00275,d93471ef,WMN-5516,Other,found a better option elsewhere,changed_mind
-RET00276,ffafcc1b,WMN-2653,Other,"too loose around the waist, need one size down",fit
-RET00277,34932783,KID-4839,Other,"no longer needed, changed my mind",changed_mind
-RET00278,7e16a905,MEN-6224,Other,"runs small, ordered my usual L but it doesn't fit at all",fit
-RET00279,4d69883d,MEN-9540,Other,"return kar rahi hu, bas pasand nahi aaya",other
-RET00280,9a9e838b,KID-1768,Other,ordered beige kurti mila maroon bheja,wrong_item
-RET00281,0ff22a61,WMN-5913,Other,"meh, thik nahi laga",other
-RET00282,1dcec9ec,MEN-3365,Other,zip broken jab khola tab,delivery_damage
-RET00283,464fd14e,MEN-3196,Other,"fitting sahi nahi hai, length bhi short hai",fit
-RET00284,136c5737,KID-2514,Other,"wrong size delivered, ordered L got S",wrong_item
-RET00285,b19c1ff6,MEN-1647,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
-RET00286,c640fd08,KID-5967,Other,"quality bahut kharab, paisa waste",fabric_quality
-RET00287,9222d582,KID-4974,Other,"runs small, ordered my usual M but it doesn't fit at all",fit
-RET00288,f92a6b1c,KID-5637,Other,not as expected,other
-RET00289,4301445e,MEN-9147,Other,stains on the fabric on arrival,delivery_damage
-RET00290,d764a140,KID-7781,Other,"meh, thik nahi laga",other
-RET00291,03126d0f,MEN-7841,Other,not as expected,other
-RET00292,9ed709e1,MEN-6530,Other,"wrong size delivered, ordered L got S",wrong_item
-RET00293,8790f7bd,KID-3773,Other,"meh, thik nahi laga",other
-RET00294,b2364e74,MEN-1794,Other,"quality bahut kharab, paisa waste",fabric_quality
-RET00295,bf95939f,WMN-1149,Other,found a better option elsewhere,changed_mind
-RET00296,43abee5c,WMN-9719,Other,ordered beige kurti mila green bheja,wrong_item
-RET00297,763f8229,MEN-8054,Other,"size chart galat tha, L order kiya but bahut tight aaya",fit
-RET00298,3813f91f,WMN-9625,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
-RET00299,0fabe6fa,KID-4984,Other,received a men's item instead of kidswear,wrong_item
-RET00300,55d81cd2,KID-7213,Other,"material feels cheap, not like the photos",fabric_quality
-RET00301,26ab5619,KID-8109,Other,"no longer needed, changed my mind",changed_mind
-RET00302,ac72a3cd,MEN-8790,Other,ordered blue kurti mila green bheja,wrong_item
-RET00303,4bd00dad,WMN-4394,Other,"return kar rahi hu, bas pasand nahi aaya",other
-RET00304,d3008cc6,MEN-4939,Other,"meh, thik nahi laga",other
-RET00305,078be327,MEN-2284,Other,"ordered by mistake, cancel kardo",changed_mind
-RET00306,99cf0a21,WMN-6580,Other,ordered beige kurti mila green bheja,wrong_item
-RET00307,2e5d9418,KID-8381,Other,zip broken jab khola tab,delivery_damage
-RET00308,88e9c5fe,MEN-7227,Other,received a men's item instead of kidswear,wrong_item
-RET00309,e50960fb,KID-3527,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
-RET00310,d83c96b0,KID-8286,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
-RET00311,5966e32b,KID-8353,Other,ordered red kurti mila green bheja,wrong_item
-RET00312,5578ab32,KID-2524,Other,zip broken jab khola tab,delivery_damage
-RET00313,b85aa3bb,KID-2387,Other,received a men's item instead of kidswear,wrong_item
-RET00314,853d83ff,WMN-5405,Other,"box was crushed, product damaged inside",delivery_damage
-RET00315,520dede6,KID-7899,Other,found a better option elsewhere,changed_mind
-RET00316,001ee624,MEN-4203,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
-RET00317,da4c12aa,MEN-7224,Other,"material feels cheap, not like the photos",fabric_quality
-RET00318,2ba3b8b9,MEN-3230,Other,received a men's item instead of kidswear,wrong_item
-RET00319,7aa88cd8,KID-6228,Other,"box was crushed, product damaged inside",delivery_damage
-RET00320,37349889,KID-6980,Other,"box was crushed, product damaged inside",delivery_damage
-RET00321,2363f4e0,WMN-8183,Other,"box was crushed, product damaged inside",delivery_damage
-RET00322,90d18fd7,MEN-5961,Other,just didn't like it,other
-RET00323,bbb49b2c,MEN-8851,Other,"meh, thik nahi laga",other
-RET00324,e758ccd6,MEN-2392,Other,zip broken jab khola tab,delivery_damage
-RET00325,42cd9471,MEN-7547,Other,"return kar rahi hu, bas pasand nahi aaya",other
-RET00326,9fa11299,KID-4637,Other,received a men's item instead of kidswear,wrong_item
-RET00327,9a93097a,KID-9199,Other,"box was crushed, product damaged inside",delivery_damage
-RET00328,2f8ca509,WMN-3321,Other,"no longer needed, changed my mind",changed_mind
-RET00329,4a7605c3,KID-2599,Other,received a men's item instead of kidswear,wrong_item
-RET00330,380968a7,WMN-2885,Other,"meh, thik nahi laga",other
-RET00331,c41f92f0,WMN-3623,Other,just didn't like it,other
-RET00332,6b93e6e8,WMN-4053,Other,not required anymore,changed_mind
-RET00333,580743a6,MEN-8037,Other,not required anymore,changed_mind
-RET00334,9c3906c4,WMN-2667,Other,not as expected,other
-RET00335,900ee32c,KID-2867,Other,"box was crushed, product damaged inside",delivery_damage
-RET00336,286e29c6,WMN-6700,Other,stains on the fabric on arrival,delivery_damage
-RET00337,b44025d9,WMN-6131,Other,found a better option elsewhere,changed_mind
-RET00338,ae39ff53,KID-7852,Other,"runs small, ordered my usual L but it doesn't fit at all",fit
-RET00339,1b846aeb,MEN-9804,Other,zip broken jab khola tab,delivery_damage
-RET00340,2a4c7048,WMN-4065,Other,not as expected,other
-RET00341,dc3bc2d5,WMN-4196,Other,"no longer needed, changed my mind",changed_mind
-RET00342,ce956c10,MEN-8272,Other,zip broken jab khola tab,delivery_damage
-RET00343,207c2533,WMN-5503,Other,"fitting sahi nahi hai, length bhi short hai",fit
-RET00344,09c497d7,WMN-5389,Other,color ekdum different tha jo dikha tha usse,fabric_quality
-RET00345,e5c2c766,WMN-5055,Other,ordered blue kurti mila white bheja,wrong_item
-RET00346,6a77f4e9,WMN-4882,Other,"ordered by mistake, cancel kardo",changed_mind
-RET00347,4aebf9e0,WMN-4385,Other,expected better tbh,other
-RET00348,f5b0e687,MEN-3758,Other,"fitting sahi nahi hai, length bhi short hai",fit
-RET00349,94a40c55,MEN-2560,Other,"return kar rahi hu, bas pasand nahi aaya",other
-RET00350,0d07785e,WMN-6277,Other,"kandhe se tight hai, return kar rahi hu",fit
-RET00351,c7bd1493,MEN-5402,Other,"meh, thik nahi laga",other
-RET00352,db92bb44,MEN-5558,Other,not required anymore,changed_mind
-RET00353,837b9d31,WMN-2526,Other,received a men's item instead of kidswear,wrong_item
-RET00354,5ea58efe,KID-4470,Other,"ordered by mistake, cancel kardo",changed_mind
-RET00355,671198c2,KID-6631,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
-RET00356,6b0f668f,WMN-3588,Other,"size chart galat tha, S order kiya but bahut tight aaya",fit
-RET00357,9ea6b0ee,KID-3604,Other,"too loose around the waist, need one size down",fit
-RET00358,d8151d50,KID-3711,Other,ordered black kurti mila green bheja,wrong_item
-RET00359,9848b8f5,WMN-1017,Other,not as expected,other
-RET00360,091e2d4b,WMN-6629,Other,"quality bahut kharab, paisa waste",fabric_quality
-RET00361,98f8923e,KID-2463,Other,found a better option elsewhere,changed_mind
-RET00362,bc586e78,WMN-7270,Other,"size chart galat tha, L order kiya but bahut tight aaya",fit
-RET00363,74a3c75d,MEN-3688,Other,stitching came apart after one wear,fabric_quality
-RET00364,55594a9a,MEN-8248,Other,not as expected,other
-RET00365,92af8ade,MEN-7291,Other,"size chart galat tha, M order kiya but bahut tight aaya",fit
-RET00366,6fb53d3a,MEN-2380,Other,"ordered by mistake, cancel kardo",changed_mind
-RET00367,8509fa1f,MEN-9348,Other,just didn't like it,other
-RET00368,6a859d47,WMN-4949,Other,ordered beige kurti mila white bheja,wrong_item
-RET00369,bb7ec77d,WMN-7337,Other,"packet phata hua aaya, item torn hai",delivery_damage
-RET00370,b1d5d39b,WMN-1273,Other,zip broken jab khola tab,delivery_damage
-RET00371,6a2e302b,KID-9300,Other,"kandhe se tight hai, return kar rahi hu",fit
-RET00372,1b2da824,WMN-6077,Other,not required anymore,changed_mind
-RET00373,0244f6d9,MEN-2083,Other,"quality bahut kharab, paisa waste",fabric_quality
-RET00374,7f6937ad,KID-2900,Other,found a better option elsewhere,changed_mind
-RET00375,a62d5868,WMN-3248,Other,"packet phata hua aaya, item torn hai",delivery_damage
-RET00376,8dfd3cd5,KID-3079,Other,color ekdum different tha jo dikha tha usse,fabric_quality
-RET00377,e9f1cb07,KID-9582,Other,ordered black kurti mila white bheja,wrong_item
-RET00378,0dc33bc1,MEN-3734,Other,not required anymore,changed_mind
-RET00379,f305b78f,MEN-1042,Other,ordered blue kurti mila maroon bheja,wrong_item
-RET00380,55f26c08,WMN-3932,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
-RET00381,9e14830f,WMN-7819,Other,"fitting sahi nahi hai, length bhi short hai",fit
-RET00382,e0d7c423,MEN-1862,Other,"different product bhej diya, ye to kuch aur h",wrong_item
-RET00383,3ae5faca,KID-2415,Other,"no longer needed, changed my mind",changed_mind
-RET00384,40354e8c,KID-4974,Other,"kandhe se tight hai, return kar rahi hu",fit
-RET00385,ce88ee44,WMN-7718,Other,zip broken jab khola tab,delivery_damage
-RET00386,a15e3b82,KID-6038,Other,just didn't like it,other
-RET00387,4ea30ce9,KID-2524,Other,not required anymore,changed_mind
-RET00388,9a80c191,WMN-2565,Other,zip broken jab khola tab,delivery_damage
-RET00389,2ae647e6,MEN-3141,Other,"meh, thik nahi laga",other
-RET00390,590065cf,KID-4827,Other,received a men's item instead of kidswear,wrong_item
-RET00391,14d2ce6d,WMN-8365,Other,"quality bahut kharab, paisa waste",fabric_quality
-RET00392,152e1237,KID-8591,Other,"no longer needed, changed my mind",changed_mind
-RET00393,05f8506b,KID-3430,Other,"runs small, ordered my usual L but it doesn't fit at all",fit
-RET00394,54f1c59a,WMN-1509,Other,received a men's item instead of kidswear,wrong_item
-RET00395,744ad3d4,WMN-2989,Other,found a better option elsewhere,changed_mind
-RET00396,b0e4c9b4,MEN-2376,Other,stitching came apart after one wear,fabric_quality
-RET00397,c307228c,MEN-8265,Other,ordered red kurti mila green bheja,wrong_item
-RET00398,774902aa,WMN-3752,Other,"kandhe se tight hai, return kar rahi hu",fit
-RET00399,a2498f12,MEN-7990,Other,not required anymore,changed_mind
-RET00400,76ffd15d,WMN-5026,Other,"material feels cheap, not like the photos",fabric_quality
-RET00401,2864d8ec,KID-7275,Other,not required anymore,changed_mind
-RET00402,71986f65,MEN-6883,Other,expected better tbh,other
-RET00403,ea0e98d3,WMN-1427,Other,"ordered by mistake, cancel kardo",changed_mind
-RET00404,3336dab1,MEN-6856,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
-RET00405,f5f9b5dd,WMN-5366,Other,stitching came apart after one wear,fabric_quality
-RET00406,932f499f,WMN-3885,Other,just didn't like it,other
-RET00407,dae3e564,MEN-3328,Other,"return kar rahi hu, bas pasand nahi aaya",other
-RET00408,7e6cb666,WMN-2478,Other,color ekdum different tha jo dikha tha usse,fabric_quality
-RET00409,0c50ad22,MEN-4300,Other,"fitting sahi nahi hai, length bhi short hai",fit
-RET00410,28ebfa49,WMN-3320,Other,"wrong size delivered, ordered L got S",wrong_item
-RET00411,88cf5220,MEN-7481,Other,stains on the fabric on arrival,delivery_damage
-RET00412,83769f31,MEN-8157,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
-RET00413,da53ea79,MEN-3872,Other,"ordered by mistake, cancel kardo",changed_mind
-RET00414,44082127,WMN-7415,Other,"return kar rahi hu, bas pasand nahi aaya",other
-RET00415,c1e62554,WMN-2705,Other,"packet phata hua aaya, item torn hai",delivery_damage
-RET00416,1bdd0f86,KID-3750,Other,"material feels cheap, not like the photos",fabric_quality
-RET00417,e1c5bb8a,WMN-5088,Other,"kandhe se tight hai, return kar rahi hu",fit
-RET00418,54f1fb27,KID-8179,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
-RET00419,94aca011,MEN-7149,Other,color ekdum different tha jo dikha tha usse,fabric_quality
-RET00420,f43c835e,WMN-5831,Other,"box was crushed, product damaged inside",delivery_damage
-RET00421,61d402dc,WMN-2228,Other,"size chart galat tha, L order kiya but bahut tight aaya",fit
-RET00422,5b992f65,MEN-3703,Other,"kandhe se tight hai, return kar rahi hu",fit
-RET00423,0c088ec6,WMN-4112,Other,found a better option elsewhere,changed_mind
-RET00424,348a188b,WMN-1813,Other,stains on the fabric on arrival,delivery_damage
-RET00425,286443a8,WMN-8005,Other,zip broken jab khola tab,delivery_damage
-RET00426,74014787,MEN-5781,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
-RET00427,82cc3cac,KID-5341,Other,"no longer needed, changed my mind",changed_mind
-RET00428,a6d21727,KID-1731,Other,"material feels cheap, not like the photos",fabric_quality
-RET00429,2cfb44b0,MEN-2584,Other,"wrong size delivered, ordered L got S",wrong_item
-RET00430,1a510b47,MEN-7858,Other,zip broken jab khola tab,delivery_damage
-RET00431,5dda6027,WMN-7468,Other,"meh, thik nahi laga",other
-RET00432,fc2e6265,WMN-3738,Other,just didn't like it,other
-RET00433,56ef5577,MEN-8133,Other,stitching came apart after one wear,fabric_quality
-RET00434,ddc953c1,KID-7510,Other,stains on the fabric on arrival,delivery_damage
-RET00435,0f28dfe0,KID-3451,Other,received a men's item instead of kidswear,wrong_item
-RET00436,c84ce2d5,KID-7732,Other,"fitting sahi nahi hai, length bhi short hai",fit
-RET00437,3badef19,KID-3356,Other,zip broken jab khola tab,delivery_damage
-RET00438,0627ab96,MEN-4892,Other,"meh, thik nahi laga",other
-RET00439,50032bb9,KID-5593,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
-RET00440,8eb9e7f8,MEN-8259,Other,just didn't like it,other
-RET00441,28c22033,KID-4463,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
-RET00442,ca445204,WMN-2075,Other,not required anymore,changed_mind
-RET00443,7465d274,WMN-4288,Other,zip broken jab khola tab,delivery_damage
-RET00444,64881d7e,MEN-4262,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
-RET00445,8e22fdb2,KID-9008,Other,zip broken jab khola tab,delivery_damage
-RET00446,a5f58b87,KID-2480,Other,color ekdum different tha jo dikha tha usse,fabric_quality
-RET00447,725d72b4,WMN-4387,Other,"runs small, ordered my usual M but it doesn't fit at all",fit
-RET00448,70e8865b,MEN-3837,Other,"packet phata hua aaya, item torn hai",delivery_damage
-RET00449,5a92d5dc,MEN-5511,Other,"runs small, ordered my usual L but it doesn't fit at all",fit
-RET00450,aa1270c1,KID-5950,Other,"ordered by mistake, cancel kardo",changed_mind
-RET00451,24f527bd,MEN-7131,Other,zip broken jab khola tab,delivery_damage
-RET00452,80503adc,WMN-6509,Other,stains on the fabric on arrival,delivery_damage
-RET00453,3acc016f,MEN-5895,Other,"return kar rahi hu, bas pasand nahi aaya",other
-RET00454,d4b751f7,WMN-1417,Other,"fitting sahi nahi hai, length bhi short hai",fit
-RET00455,6a592994,MEN-1578,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
-RET00456,0a734844,MEN-8794,Other,"box was crushed, product damaged inside",delivery_damage
-RET00457,e1ed90e6,MEN-3967,Other,"return kar rahi hu, bas pasand nahi aaya",other
-RET00458,bf9acacc,WMN-4641,Other,"material feels cheap, not like the photos",fabric_quality
-RET00459,746103d2,KID-5817,Other,"return kar rahi hu, bas pasand nahi aaya",other
-RET00460,043b10fa,WMN-9199,Other,"too loose around the waist, need one size down",fit
-RET00461,265204f7,WMN-4281,Other,stains on the fabric on arrival,delivery_damage
-RET00462,1fc77cb4,WMN-2324,Other,zip broken jab khola tab,delivery_damage
-RET00463,51be1c94,KID-5481,Other,not as expected,other
-RET00464,b263e990,MEN-8105,Other,"box was crushed, product damaged inside",delivery_damage
-RET00465,81edef2e,WMN-9745,Other,not required anymore,changed_mind
-RET00466,1051ee9e,WMN-5076,Other,"kandhe se tight hai, return kar rahi hu",fit
-RET00467,9760fd13,MEN-6015,Other,"wrong size delivered, ordered L got S",wrong_item
-RET00468,a6ae3a87,MEN-3192,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
-RET00469,7a8c653c,WMN-4742,Other,"ordered by mistake, cancel kardo",changed_mind
-RET00470,73cf1a53,MEN-1612,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
-RET00471,fe416767,WMN-1323,Other,"return kar rahi hu, bas pasand nahi aaya",other
-RET00472,5cd28076,KID-8772,Other,not required anymore,changed_mind
-RET00473,0e9feeff,WMN-9524,Other,"fabric bhut thin hai, first wash mein hi fade ho gaya",fabric_quality
-RET00474,9804015a,WMN-9154,Other,"no longer needed, changed my mind",changed_mind
-RET00475,57b6f05b,WMN-1645,Other,"wrong size delivered, ordered L got S",wrong_item
-RET00476,85a75ab7,WMN-2458,Other,color ekdum different tha jo dikha tha usse,fabric_quality
-RET00477,ed5f7b48,WMN-2659,Other,zip broken jab khola tab,delivery_damage
-RET00478,7350b6e4,KID-1820,Other,not as expected,other
-RET00479,a0a3f2c4,MEN-2898,Other,"kandhe se tight h, return kar rahi hu",fit
-RET00480,d4ec3be4,KID-5395,Other,"runs small, ordered my usual M but it doesn't fit at all",fit
-RET00481,5c118109,KID-7557,Other,"kandhe se tight hai, return kar rahi hu",fit
-RET00482,31c5c092,WMN-2852,Other,received a men's item instead of kidswear,wrong_item
-RET00483,a0e4ec89,MEN-8178,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
-RET00484,f482fb89,WMN-7738,Other,ordered beige kurti mila white bheja,wrong_item
-RET00485,baead3cf,MEN-9598,Other,"kandhe se tight hai, return kar rahi hu",fit
-RET00486,ebb87d0d,MEN-5072,Other,"box was crushed, product damaged inside",delivery_damage
-RET00487,942a342a,MEN-3571,Other,"meh, thik nahi laga",other
-RET00488,d3f0dc6a,KID-4946,Other,not required anymore,changed_mind
-RET00489,9c990878,WMN-2291,Other,ordered beige kurti mila white bheja,wrong_item
-RET00490,00892035,KID-2944,Other,zip broken jab khola tab,delivery_damage
-RET00491,65674370,WMN-9996,Other,just didn't like it,other
-RET00492,b0d01544,KID-1889,Other,stains on the fabric on arrival,delivery_damage
-RET00493,136af1bc,KID-2868,Other,"ordered by mistake, cancel kardo",changed_mind
-RET00494,ea730021,MEN-7125,Other,"kandhe se tight hai, return kar rahi hu",fit
-RET00495,46411513,MEN-7704,Other,"runs small, ordered my usual XL but it doesn't fit at all",fit
-RET00496,68aa699c,WMN-6536,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
-RET00497,c91b868a,MEN-9260,Other,"fitting sahi nahi hai, length bhi short hai",fit
-RET00498,4d8b0f1f,KID-9328,Other,"fitting sahi nahi hai, length bhi short hai",fit
-RET00499,03e3c6f3,KID-6273,Other,"quality bahut kharab, paisa waste",fabric_quality
+RET00000,600306a1,WMN-3286,Other,just didn't like it,other
+RET00001,a2762986,WMN-2535,Other,expected better tbh,other
+RET00002,48640dff,MEN-5557,Other,"box was crushed, product damaged inside",delivery_damage
+RET00003,3371612d,WMN-4527,Other,"runs small, ordered my usual XL but it doesn't fit at all",fit
+RET00004,1e1d1e46,KID-6635,Other,ordered beige kurti mila green bheja,wrong_item
+RET00005,2ca496fc,MEN-5803,Other,"too loose around the waist, need one size down",fit
+RET00006,34f1cad5,MEN-4733,Other,stains on the fabric on arrival,delivery_damage
+RET00007,c8af2d42,KID-6977,Other,"runs small, ordered my usual S but it doesn't fit at all",fit
+RET00008,77302b13,MEN-5010,Other,"material feels cheap, not like the photos",fabric_quality
+RET00009,f39c24d6,WMN-6168,Other,"wrong size delivered, ordered L got S",wrong_item
+RET00010,67280ab0,KID-7482,Other,"runs small, ordered my usual L but it doesn't fit at all",fit
+RET00011,0a7ef928,WMN-9830,Other,"meh, thik nahi laga",other
+RET00012,f9d498f7,MEN-9085,Other,zip broken jab khola tab,delivery_damage
+RET00013,d6bb84e6,WMN-7304,Other,"runs small, ordered my usual M but it doesn't fit at all",fit
+RET00014,102e8acc,MEN-5371,Other,"ordered by mistake, cancel kardo",changed_mind
+RET00015,170230c1,KID-1053,Other,ordered beige kurti mila green bheja,wrong_item
+RET00016,15fa239a,KID-9317,Other,"return kar rahi hu, bas pasand nahi aaya",other
+RET00017,2fe3792f,KID-9005,Other,"material feels cheap, not like the photos",fabric_quality
+RET00018,f89c933a,WMN-2403,Other,"wrong size delivered, ordered L got S",wrong_item
+RET00019,c8508e74,KID-3705,Other,"fitting sahi nahi hai, length bhi short hai",fit
+RET00020,799587be,MEN-7118,Other,"quality bahut kharab, paisa waste",fabric_quality
+RET00021,e00ce549,WMN-6539,Other,zip broken jab khola tab,delivery_damage
+RET00022,b2bd7fb9,MEN-1964,Other,"box was crushed, product damaged inside",delivery_damage
+RET00023,103fea11,KID-4510,Other,ordered black kurti mila maroon bheja,wrong_item
+RET00024,1de332e3,KID-4119,Other,expected better tbh,other
+RET00025,cbbc1a15,WMN-2612,Other,received a men's item instead of kidswear,wrong_item
+RET00026,3c3bd6c0,KID-3296,Other,"runs small, ordered my usual M but it doesn't fit at all",fit
+RET00027,1887032c,MEN-2604,Other,received a men's item instead of kidswear,wrong_item
+RET00028,f0df44e1,KID-4502,Other,"runs small, ordered my usual M but it doesn't fit at all",fit
+RET00029,c1e12a94,KID-8454,Other,"runs small, ordered my usual XL but it doesn't fit at all",fit
+RET00030,0e1eedca,MEN-9883,Other,stitching came apart after one wear,fabric_quality
+RET00031,c0050fe5,MEN-2312,Other,"size chart galat tha, XL order kiya but bahut tight aaya",fit
+RET00032,ea776fb8,WMN-5033,Other,"fitting sahi nahi hai, length bhi short hai",fit
+RET00033,7fa57a04,MEN-9565,Other,"fitting sahi nahi hai, length bhi short hai",fit
+RET00034,6e43ffc3,KID-3144,Other,"wrong size delivered, ordered L got S",wrong_item
+RET00035,6cab6055,KID-2638,Other,received a men's item instead of kidswear,wrong_item
+RET00036,c774c79d,WMN-7054,Other,stains on the fabric on arrival,delivery_damage
+RET00037,494b50ab,WMN-3200,Other,stains on the fabric on arrival,delivery_damage
+RET00038,87ca18d5,MEN-4450,Other,expected better tbh,other
+RET00039,65528cc5,WMN-7939,Other,"material feels cheap, not like the photos",fabric_quality
+RET00040,14cc9385,KID-3647,Other,"size chart galat tha, L order kiya but bahut tight aaya",fit
+RET00041,095d9373,MEN-3442,Other,zip broken jab khola tab,delivery_damage
+RET00042,b733fbb1,KID-6974,Other,"wrong size delivered, ordered L got S",wrong_item
+RET00043,7df943fd,WMN-6794,Other,"kandhe se tight hai, return kar rahi hu",fit
+RET00044,95c53850,KID-1406,Other,found a better option elsewhere,changed_mind
+RET00045,3425d2e1,WMN-7267,Other,found a better option elsewhere,changed_mind
+RET00046,b445d78a,KID-4728,Other,found a better option elsewhere,changed_mind
+RET00047,3c830b69,KID-9346,Other,"ordered by mistake, cancel kardo",changed_mind
+RET00048,ae9c69e0,WMN-5349,Other,stains on the fabric on arrival,delivery_damage
+RET00049,a2a55bf2,MEN-4114,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
+RET00050,fb19a563,WMN-6409,Other,"fitting sahi nahi hai, length bhi short hai",fit
+RET00051,8c1cc5b0,KID-6344,Other,just didn't like it,other
+RET00052,7aac3f35,KID-3851,Other,"wrong size delivered, ordered L got S",wrong_item
+RET00053,cd846502,WMN-8043,Other,received a men's item instead of kidswear,wrong_item
+RET00054,1d55f987,MEN-4501,Other,stains on the fabric on arrival,delivery_damage
+RET00055,dce5feb4,MEN-6491,Other,not as expected,other
+RET00056,83cc2108,WMN-1757,Other,"return kar rahi hu, bas pasand nahi aaya",other
+RET00057,168ebaed,MEN-4185,Other,"packet phata hua aaya, item torn hai",delivery_damage
+RET00058,212a5db7,MEN-1090,Other,not required anymore,changed_mind
+RET00059,f73456db,MEN-8611,Other,"too loose around the waist, need one size down",fit
+RET00060,d61c407d,MEN-6198,Other,"too loose around the waist, need one size down",fit
+RET00061,758b2a35,KID-8373,Other,not required anymore,changed_mind
+RET00062,cff5bb57,KID-2269,Other,"return kar rahi hu, bas pasand nahi aaya",other
+RET00063,fb44b3d6,WMN-3267,Other,"material feels cheap, not like the photos",fabric_quality
+RET00064,bcdde244,KID-6421,Other,not as expected,other
+RET00065,6e09d2f2,MEN-1320,Other,"no longer needed, changed my mind",changed_mind
+RET00066,e00df745,KID-7389,Other,zip broken jab khola tab,delivery_damage
+RET00067,b0655ff1,KID-8956,Other,found a better option elsewhere,changed_mind
+RET00068,52cd892e,MEN-9751,Other,"meh, thik nahi laga",other
+RET00069,ff338f89,KID-3977,Other,"packet phata hua aaya, item torn hai",delivery_damage
+RET00070,8f821b85,KID-5558,Other,"wrong size delivered, ordered L got S",wrong_item
+RET00071,86f95132,MEN-9837,Other,"ordered by mistake, cancel kardo",changed_mind
+RET00072,67f52b7a,WMN-1333,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
+RET00073,dc4e101e,WMN-8619,Other,stitching came apart after one wear,fabric_quality
+RET00074,fccdbb57,WMN-1420,Other,"wrong size delivered, ordered L got S",wrong_item
+RET00075,2f98529b,MEN-4978,Other,zip broken jab khola tab,delivery_damage
+RET00076,7c5c6b77,MEN-8018,Other,expected better tbh,other
+RET00077,82a2714d,KID-2729,Other,"fitting sahi nahi hai, length bhi short hai",fit
+RET00078,14d3e1f9,MEN-9548,Other,received a men's item instead of kidswear,wrong_item
+RET00079,0f0cb89d,MEN-5397,Other,received a men's item instead of kidswear,wrong_item
+RET00080,eb1e3e4c,KID-7209,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
+RET00081,667e7125,KID-5232,Other,"ordered by mistake, cancel kardo",changed_mind
+RET00082,8efc38f2,WMN-7658,Other,stains on the fabric on arrival,delivery_damage
+RET00083,834f9263,WMN-5820,Other,color ekdum different tha jo dikha tha usse,fabric_quality
+RET00084,5e6e5bab,MEN-6419,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
+RET00085,eeff0eb2,WMN-4155,Other,"ordered by mistake, cancel kardo",changed_mind
+RET00086,dbde3fe9,MEN-8933,Other,expected better tbh,other
+RET00087,550c9428,WMN-5952,Other,"runs small, ordered my usual L but it doesn't fit at all",fit
+RET00088,c12963d3,WMN-9042,Other,ordered black kurti mila maroon bheja,wrong_item
+RET00089,cdf1e7ba,KID-4020,Other,stains on the fabric on arrival,delivery_damage
+RET00090,bbf54f95,KID-2213,Other,received a men's item instead of kidswear,wrong_item
+RET00091,16a27b13,KID-2395,Other,just didn't like it,other
+RET00092,ee97fc3f,KID-8381,Other,"fitting sahi nahi hai, length bhi short hai",fit
+RET00093,c002dc6c,MEN-2625,Other,received a men's item instead of kidswear,wrong_item
+RET00094,fd912a0f,WMN-3847,Other,stitching came apart after one wear,fabric_quality
+RET00095,338e4fec,MEN-8699,Other,"fabric bhut thin hai, first wash mein hi fade ho gaya",fabric_quality
+RET00096,c215e763,WMN-5334,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
+RET00097,12129d55,MEN-4683,Other,expected better tbh,other
+RET00098,4d1f76ab,KID-5728,Other,"wrong size delivered, ordered L got S",wrong_item
+RET00099,04cee16a,MEN-9090,Other,"ordered by mistake, cancel kardo",changed_mind
+RET00100,a94c5198,KID-1423,Other,"packet phata hua aaya, item torn h",delivery_damage
+RET00101,5a37f370,MEN-8245,Other,"return kar rahi hu, bas pasand nahi aaya",other
+RET00102,abe9da97,KID-6700,Other,"quality bahut kharab, paisa waste",fabric_quality
+RET00103,47871e16,MEN-9117,Other,ordered black kurti mila white bheja,wrong_item
+RET00104,70427c09,KID-6296,Other,"packet phata hua aaya, item torn hai",delivery_damage
+RET00105,42df693c,WMN-9494,Other,"packet phata hua aaya, item torn hai",delivery_damage
+RET00106,7489bc51,MEN-3146,Other,not required anymore,changed_mind
+RET00107,4b5da99a,MEN-4920,Other,not required anymore,changed_mind
+RET00108,6596099b,WMN-8560,Other,ordered red kurti mila green bheja,wrong_item
+RET00109,3608c205,MEN-5479,Other,not as expected,other
+RET00110,dc417d2c,WMN-7284,Other,not required anymore,changed_mind
+RET00111,3df37b53,KID-1042,Other,"kandhe se tight hai, return kar rahi hu",fit
+RET00112,bcbbaa42,KID-6654,Other,zip broken jab khola tab,delivery_damage
+RET00113,a81ac487,MEN-4912,Other,zip broken jab khola tab,delivery_damage
+RET00114,fa6c7f7c,KID-7246,Other,color ekdum different tha jo dikha tha usse,fabric_quality
+RET00115,7b517b51,MEN-6439,Other,not as expected,other
+RET00116,b838c4fb,WMN-7717,Other,"no longer needed, changed my mind",changed_mind
+RET00117,4916a053,MEN-7512,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
+RET00118,b8735858,WMN-2121,Other,received a men's item instead of kidswear,wrong_item
+RET00119,d378c9b0,MEN-2646,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
+RET00120,37cbe178,WMN-5806,Other,"return kar rahi hu, bas pasand nahi aaya",other
+RET00121,ac927adf,MEN-3950,Other,found a better option elsewhere,changed_mind
+RET00122,4ea0e627,WMN-4804,Other,zip broken jab khola tab,delivery_damage
+RET00123,4a68b6bd,KID-9955,Other,recieved a men's item instead of kidswear,wrong_item
+RET00124,8624ed7c,KID-4263,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
+RET00125,c2dcb74e,KID-5847,Other,"no longer needed, changed my mind",changed_mind
+RET00126,3fe065db,MEN-1803,Other,ordered black kurti mila green bheja,wrong_item
+RET00127,f10dd6d2,KID-4588,Other,"meh, thik nahi laga",other
+RET00128,e296d5d9,MEN-1645,Other,stains on the fabric on arrival,delivery_damage
+RET00129,5da36a9e,KID-6352,Other,"no longer needed, changed my mind",changed_mind
+RET00130,ba569c8b,MEN-5465,Other,stitching came apart after one wear,fabric_quality
+RET00131,16619da6,KID-2233,Other,received a men's item instead of kidswear,wrong_item
+RET00132,1bd61a64,WMN-5332,Other,"meh, thik nahi laga",other
+RET00133,b0f9a885,KID-2775,Other,"ordered by mistake, cancel kardo",changed_mind
+RET00134,25a6d6bd,WMN-8606,Other,"no longer needed, changed my mind",changed_mind
+RET00135,290a3bcd,WMN-5986,Other,received a men's item instead of kidswear,wrong_item
+RET00136,e10fe3bc,KID-7078,Other,"size chart galat tha, M order kiya but bahut tight aaya",fit
+RET00137,1e6a7b68,MEN-2622,Other,expected better tbh,other
+RET00138,0d46dc45,KID-4559,Other,zip broken jab khola tab,delivery_damage
+RET00139,88de2607,MEN-6876,Other,"material feels cheap, not like the photos",fabric_quality
+RET00140,eaf10f51,WMN-1349,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
+RET00141,348ad709,WMN-4538,Other,stitching came apart after one wear,fabric_quality
+RET00142,50a1cd00,WMN-3129,Other,"material feels cheap, not like the photos",fabric_quality
+RET00143,b88b18a4,KID-4898,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
+RET00144,2f2d1c6c,MEN-7897,Other,"runs small, ordered my usual L but it doesn't fit at all",fit
+RET00145,13e047e5,MEN-2786,Other,just didn't like it,other
+RET00146,efdb813a,MEN-1510,Other,"quality bahut kharab, paisa waste",fabric_quality
+RET00147,ab41f36e,KID-2204,Other,not required anymore,changed_mind
+RET00148,0170de1a,MEN-9984,Other,"wrong size delivered, ordered L got S",wrong_item
+RET00149,2f0d3fb0,MEN-2874,Other,"ordered by mistake, cancel kardo",changed_mind
+RET00150,8214b1d7,WMN-7779,Other,expected better tbh,other
+RET00151,09922014,KID-6120,Other,not required anymore,changed_mind
+RET00152,a5dbf21a,WMN-2527,Other,"wrong size delivered, ordered L got S",wrong_item
+RET00153,dc923220,MEN-6400,Other,"return kar rahi hu, bas pasand nahi aaya",other
+RET00154,7efab5e8,MEN-6119,Other,"ordered by mistake, cancel kardo",changed_mind
+RET00155,b9bf0242,WMN-6736,Other,"box was crushed, product damaged inside",delivery_damage
+RET00156,58fe3166,MEN-1430,Other,ordered blue kurti mila white bheja,wrong_item
+RET00157,88617146,MEN-6062,Other,"return kar rahi hu, bas pasand nahi aaya",other
+RET00158,362671a8,MEN-7566,Other,ordered blue kurti mila maroon bheja,wrong_item
+RET00159,76861eea,KID-6585,Other,"fitting sahi nahi hai, length bhi short hai",fit
+RET00160,48b7e4ec,WMN-1815,Other,"return kar rahi hu, bas pasand nahi aaya",other
+RET00161,b122e9d8,KID-7785,Other,received a men's item instead of kidswear,wrong_item
+RET00162,baa5bed0,MEN-8972,Other,received a men's item instead of kidswear,wrong_item
+RET00163,b91b53ac,WMN-1125,Other,ordered beige kurti mila maroon bheja,wrong_item
+RET00164,357dfe6c,WMN-9149,Other,"material feels cheap, not like the photos",fabric_quality
+RET00165,5d2c8f0e,MEN-6802,Other,stitching came apart after one wear,fabric_quality
+RET00166,49dd55b0,MEN-8033,Other,"no longer needed, changed my mind",changed_mind
+RET00167,273bda34,WMN-6321,Other,"meh, thik nahi laga",other
+RET00168,b1c329f2,WMN-8138,Other,"return kar rahi hu, bas pasand nahi aaya",other
+RET00169,b18514c4,KID-4630,Other,"packet phata hua aaya, item torn hai",delivery_damage
+RET00170,c988e485,KID-3419,Other,"fabric bhut thin hai, first wash mein hi fade ho gaya",fabric_quality
+RET00171,d9437652,WMN-3902,Other,"wrong size delivered, ordered L got S",wrong_item
+RET00172,ebf90f9d,MEN-6295,Other,"meh, thik nahi laga",other
+RET00173,f8581072,KID-8245,Other,"return kar rahi hu, bas pasand nahi aaya",other
+RET00174,f04ef81a,KID-8404,Other,ordered red kurti mila white bheja,wrong_item
+RET00175,1e36480b,MEN-1672,Other,ordered beige kurti mila white bheja,wrong_item
+RET00176,7929b2a1,WMN-2013,Other,"box was crushed, product damaged inside",delivery_damage
+RET00177,5cd375f0,MEN-8172,Other,ordered red kurti mila green bheja,wrong_item
+RET00178,e4b94488,KID-7697,Other,"box was crushed, product damaged inside",delivery_damage
+RET00179,8800110c,KID-2548,Other,expected better tbh,other
+RET00180,17ce83bd,WMN-3317,Other,"ordered by mistake, cancel kardo",changed_mind
+RET00181,2a299caf,MEN-7171,Other,received a men's item instead of kidswear,wrong_item
+RET00182,3d82d9ec,KID-1298,Other,"wrong size delivered, ordered L got S",wrong_item
+RET00183,533fc517,WMN-3253,Other,stitching came apart after one wear,fabric_quality
+RET00184,45dc230d,WMN-7172,Other,"fitting sahi nahi hai, length bhi short hai",fit
+RET00185,d1c13dc5,KID-6968,Other,expected better tbh,other
+RET00186,4fd0aec0,MEN-4918,Other,color ekdum different tha jo dikha tha usse,fabric_quality
+RET00187,d0e48a33,KID-7256,Other,found a better option elsewhere,changed_mind
+RET00188,5a0ac9f4,WMN-8873,Other,found a better option elsewhere,changed_mind
+RET00189,2510dbbe,WMN-5469,Other,"packet phata hua aaya, item torn hai",delivery_damage
+RET00190,309fc633,KID-6727,Other,"box was crushed, product damaged inside",delivery_damage
+RET00191,7ec9dcdb,KID-2337,Other,"no longer needed, changed my mind",changed_mind
+RET00192,edfefd61,WMN-1627,Other,"kandhe se tight hai, return kar rahi hu",fit
+RET00193,424c1699,WMN-2298,Other,not as expected,other
+RET00194,a7e704e0,WMN-5934,Other,"quality bhut kharab, paisa waste",fabric_quality
+RET00195,8d6a0e9f,MEN-9782,Other,not required anymore,changed_mind
+RET00196,343c0aa8,MEN-6780,Other,not as expected,other
+RET00197,5452541d,MEN-9312,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
+RET00198,686560d1,MEN-7338,Other,"packet phata hua aaya, item torn hai",delivery_damage
+RET00199,f3c4679a,WMN-2698,Other,ordered red kurti mila white bheja,wrong_item
+RET00200,407557c5,MEN-6546,Other,"return kar rahi hu, bas pasand nahi aaya",other
+RET00201,deb66869,WMN-8498,Other,color ekdum different tha jo dikha tha usse,fabric_quality
+RET00202,7c023ee7,MEN-7524,Other,"runs small, ordered my usual S but it doesn't fit at all",fit
+RET00203,15768f06,WMN-5687,Other,zip broken jab khola tab,delivery_damage
+RET00204,4449735a,KID-7553,Other,"kandhe se tight hai, return kar rahi hu",fit
+RET00205,fd19b47b,KID-7018,Other,"ordered by mistake, cancel kardo",changed_mind
+RET00206,bdc13d7f,KID-3956,Other,stains on the fabric on arrival,delivery_damage
+RET00207,32a62b4e,KID-6021,Other,ordered black kurti mila maroon bheja,wrong_item
+RET00208,5912c527,KID-1693,Other,"meh, thik nahi laga",other
+RET00209,f334dae1,MEN-7655,Other,received a men's item instead of kidswear,wrong_item
+RET00210,7024af12,MEN-8179,Other,not as expected,other
+RET00211,ccf4ab10,WMN-3513,Other,"material feels cheap, not like the photos",fabric_quality
+RET00212,009677cc,WMN-9674,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
+RET00213,9c62f974,MEN-4048,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
+RET00214,e93586ad,KID-4515,Other,"no longer needed, changed my mind",changed_mind
+RET00215,edcaab30,WMN-8406,Other,recieved a men's item instead of kidswear,wrong_item
+RET00216,ec0968f3,MEN-5757,Other,"kandhe se tight hai, return kar rahi hu",fit
+RET00217,378ce70c,WMN-3275,Other,stitching came apart after one wear,fabric_quality
+RET00218,76c606f0,WMN-2412,Other,"kandhe se tight hai, return kar rahi hu",fit
+RET00219,4e6f4f00,WMN-3053,Other,"meh, thik nahi laga",other
+RET00220,0a773292,MEN-6644,Other,just didn't like it,other
+RET00221,8dd52721,WMN-5982,Other,color ekdum different tha jo dikha tha usse,fabric_quality
+RET00222,af163327,KID-4216,Other,not as expected,other
+RET00223,fefbd14c,MEN-2530,Other,stains on the fabric on arrival,delivery_damage
+RET00224,39e96dd2,MEN-6531,Other,"quality bahut kharab, paisa waste",fabric_quality
+RET00225,92c80d04,MEN-5336,Other,"packet phata hua aaya, item torn hai",delivery_damage
+RET00226,ec0e6a43,MEN-5745,Other,zip broken jab khola tab,delivery_damage
+RET00227,6eebf7f4,KID-2195,Other,received a men's item instead of kidswear,wrong_item
+RET00228,7fc540ac,WMN-6573,Other,color ekdum different tha jo dikha tha usse,fabric_quality
+RET00229,fb6fde3b,KID-9437,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
+RET00230,4987b443,KID-5061,Other,"wrong size delivered, ordered L got S",wrong_item
+RET00231,2f9a1f4b,KID-6123,Other,received a men's item instead of kidswear,wrong_item
+RET00232,190c2990,WMN-2475,Other,not required anymore,changed_mind
+RET00233,e5e4821e,KID-1797,Other,zip broken jab khola tab,delivery_damage
+RET00234,9c8fea6d,KID-3194,Other,zip broken jab khola tab,delivery_damage
+RET00235,8b0fde38,KID-1838,Other,"return kar rahi hu, bas pasand nahi aaya",other
+RET00236,4e243bfb,MEN-8378,Other,"material feels cheap, not like the photos",fabric_quality
+RET00237,c92425d7,KID-6555,Other,ordered red kurti mila white bheja,wrong_item
+RET00238,56f2ae57,WMN-1742,Other,"wrong size delivered, ordered L got S",wrong_item
+RET00239,98959867,MEN-6218,Other,not required anymore,changed_mind
+RET00240,efcf9a7d,WMN-7035,Other,stains on the fabric on arrival,delivery_damage
+RET00241,8fb88c60,KID-5350,Other,"too loose around the waist, need one size down",fit
+RET00242,7c9a6a46,MEN-7229,Other,"box was crushed, product damaged inside",delivery_damage
+RET00243,ed304038,KID-6139,Other,"fitting sahi nahi hai, length bhi short hai",fit
+RET00244,0a732d65,MEN-2020,Other,found a better option elsewhere,changed_mind
+RET00245,affd8694,KID-6140,Other,"box was crushed, product damaged inside",delivery_damage
+RET00246,5d4f544c,KID-4150,Other,"ordered by mistake, cancel kardo",changed_mind
+RET00247,50d4a554,MEN-4396,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
+RET00248,1a1aff92,MEN-5480,Other,"ordered by mistake, cancel kardo",changed_mind
+RET00249,00fbeab0,KID-2294,Other,"ordered by mistake, cancel kardo",changed_mind
+RET00250,b4d010a0,MEN-5442,Other,"ordered by mistake, cancel kardo",changed_mind
+RET00251,5c156b32,MEN-4920,Other,"return kar rahi hu, bas pasand nahi aaya",other
+RET00252,4d52f7fc,KID-8739,Other,not as expected,other
+RET00253,9f5b42ef,KID-8822,Other,"fitting sahi nahi hai, length bhi short hai",fit
+RET00254,9264521e,MEN-4804,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
+RET00255,3122cf75,WMN-7504,Other,just didn't like it,other
+RET00256,f88c9d6c,MEN-2758,Other,"material feels cheap, not like the photos",fabric_quality
+RET00257,83a5bb46,MEN-8668,Other,"different product bhej diya, ye to kuch aur h",wrong_item
+RET00258,6490d8b8,WMN-1230,Other,"wrong size delivered, ordered L got S",wrong_item
+RET00259,d3ccd419,MEN-6372,Other,"wrong size delivered, ordered L got S",wrong_item
+RET00260,c4df638a,WMN-5272,Other,stitching came apart after one wear,fabric_quality
+RET00261,1f66d80e,MEN-1187,Other,"ordered by mistake, cancel kardo",changed_mind
+RET00262,c3f3d1d1,KID-3616,Other,not as expected,other
+RET00263,064743bf,MEN-4618,Other,stains on the fabric on arrival,delivery_damage
+RET00264,98c3ad47,MEN-9998,Other,found a better option elsewhere,changed_mind
+RET00265,ab2c0b7e,KID-9653,Other,"box was crushed, product damaged inside",delivery_damage
+RET00266,da4f22ae,MEN-4312,Other,"fitting sahi nahi hai, length bhi short hai",fit
+RET00267,a57f8507,MEN-4365,Other,stitching came apart after one wear,fabric_quality
+RET00268,78457c38,WMN-9409,Other,"no longer needed, changed my mind",changed_mind
+RET00269,18015c13,WMN-7487,Other,"packet phata hua aaya, item torn h",delivery_damage
+RET00270,94140bd9,KID-2044,Other,not as expected,other
+RET00271,338562ce,KID-3948,Other,"size chart galat tha, XL order kiya but bahut tight aaya",fit
+RET00272,4292cb98,KID-7154,Other,"meh, thik nahi laga",other
+RET00273,0743f91d,KID-9664,Other,"return kar rahi hu, bas pasand nahi aaya",other
+RET00274,e683bfba,MEN-9920,Other,"size chart galat tha, L order kiya but bahut tight aaya",fit
+RET00275,29ef2658,WMN-5516,Other,found a better option elsewhere,changed_mind
+RET00276,7867e294,WMN-2653,Other,"too loose around the waist, need one size down",fit
+RET00277,02c55d22,KID-4839,Other,"no longer needed, changed my mind",changed_mind
+RET00278,5ca72d5f,MEN-6224,Other,"runs small, ordered my usual L but it doesn't fit at all",fit
+RET00279,411ce7de,MEN-9540,Other,"return kar rahi hu, bas pasand nahi aaya",other
+RET00280,dcd92883,KID-1768,Other,ordered beige kurti mila maroon bheja,wrong_item
+RET00281,0332df7f,WMN-5913,Other,"meh, thik nahi laga",other
+RET00282,feaf474b,MEN-3365,Other,zip broken jab khola tab,delivery_damage
+RET00283,425d033f,MEN-3196,Other,"fitting sahi nahi hai, length bhi short hai",fit
+RET00284,6a8ed461,KID-2514,Other,"wrong size delivered, ordered L got S",wrong_item
+RET00285,b6cd555e,MEN-1647,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
+RET00286,56305948,KID-5967,Other,"quality bahut kharab, paisa waste",fabric_quality
+RET00287,b54473ec,KID-4974,Other,"runs small, ordered my usual M but it doesn't fit at all",fit
+RET00288,b5c5e13b,KID-5637,Other,not as expected,other
+RET00289,ebf3d815,MEN-9147,Other,stains on the fabric on arrival,delivery_damage
+RET00290,5b1af6e8,KID-7781,Other,"meh, thik nahi laga",other
+RET00291,7b2ae595,MEN-7841,Other,not as expected,other
+RET00292,aae0f5b3,MEN-6530,Other,"wrong size delivered, ordered L got S",wrong_item
+RET00293,a54ea056,KID-3773,Other,"meh, thik nahi laga",other
+RET00294,bb12f25d,MEN-1794,Other,"quality bahut kharab, paisa waste",fabric_quality
+RET00295,b22806c2,WMN-1149,Other,found a better option elsewhere,changed_mind
+RET00296,76c3aced,WMN-9719,Other,ordered beige kurti mila green bheja,wrong_item
+RET00297,6dd4309b,MEN-8054,Other,"size chart galat tha, L order kiya but bahut tight aaya",fit
+RET00298,886c1561,WMN-9625,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
+RET00299,f51c91be,KID-4984,Other,received a men's item instead of kidswear,wrong_item
+RET00300,9f21078e,KID-7213,Other,"material feels cheap, not like the photos",fabric_quality
+RET00301,dee74762,KID-8109,Other,"no longer needed, changed my mind",changed_mind
+RET00302,11f75f7e,MEN-8790,Other,ordered blue kurti mila green bheja,wrong_item
+RET00303,9b1fd65a,WMN-4394,Other,"return kar rahi hu, bas pasand nahi aaya",other
+RET00304,52b31bc1,MEN-4939,Other,"meh, thik nahi laga",other
+RET00305,526fe34f,MEN-2284,Other,"ordered by mistake, cancel kardo",changed_mind
+RET00306,56fe9016,WMN-6580,Other,ordered beige kurti mila green bheja,wrong_item
+RET00307,0f48df45,KID-8381,Other,zip broken jab khola tab,delivery_damage
+RET00308,ec5db230,MEN-7227,Other,received a men's item instead of kidswear,wrong_item
+RET00309,71386014,KID-3527,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
+RET00310,80c61118,KID-8286,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
+RET00311,626d8672,KID-8353,Other,ordered red kurti mila green bheja,wrong_item
+RET00312,f4f55483,KID-2524,Other,zip broken jab khola tab,delivery_damage
+RET00313,44e24e54,KID-2387,Other,received a men's item instead of kidswear,wrong_item
+RET00314,32102c69,WMN-5405,Other,"box was crushed, product damaged inside",delivery_damage
+RET00315,a8d0add6,KID-7899,Other,found a better option elsewhere,changed_mind
+RET00316,962ab29c,MEN-4203,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
+RET00317,d995e461,MEN-7224,Other,"material feels cheap, not like the photos",fabric_quality
+RET00318,acf24957,MEN-3230,Other,received a men's item instead of kidswear,wrong_item
+RET00319,7c4b248d,KID-6228,Other,"box was crushed, product damaged inside",delivery_damage
+RET00320,57bfb56a,KID-6980,Other,"box was crushed, product damaged inside",delivery_damage
+RET00321,ddfb3b38,WMN-8183,Other,"box was crushed, product damaged inside",delivery_damage
+RET00322,6a47f6aa,MEN-5961,Other,just didn't like it,other
+RET00323,be7488d3,MEN-8851,Other,"meh, thik nahi laga",other
+RET00324,dfda90b5,MEN-2392,Other,zip broken jab khola tab,delivery_damage
+RET00325,fbaa6cac,MEN-7547,Other,"return kar rahi hu, bas pasand nahi aaya",other
+RET00326,fcc5b33a,KID-4637,Other,received a men's item instead of kidswear,wrong_item
+RET00327,060993e5,KID-9199,Other,"box was crushed, product damaged inside",delivery_damage
+RET00328,dfe95dce,WMN-3321,Other,"no longer needed, changed my mind",changed_mind
+RET00329,2f67ce71,KID-2599,Other,received a men's item instead of kidswear,wrong_item
+RET00330,379b7b46,WMN-2885,Other,"meh, thik nahi laga",other
+RET00331,2cd7d36e,WMN-3623,Other,just didn't like it,other
+RET00332,51fb2ef9,WMN-4053,Other,not required anymore,changed_mind
+RET00333,180fae2c,MEN-8037,Other,not required anymore,changed_mind
+RET00334,8496f0ab,WMN-2667,Other,not as expected,other
+RET00335,003c2a20,KID-2867,Other,"box was crushed, product damaged inside",delivery_damage
+RET00336,338e12fd,WMN-6700,Other,stains on the fabric on arrival,delivery_damage
+RET00337,3c9846ce,WMN-6131,Other,found a better option elsewhere,changed_mind
+RET00338,0b78d4ce,KID-7852,Other,"runs small, ordered my usual L but it doesn't fit at all",fit
+RET00339,cf95d8b0,MEN-9804,Other,zip broken jab khola tab,delivery_damage
+RET00340,8d68c821,WMN-4065,Other,not as expected,other
+RET00341,18333e43,WMN-4196,Other,"no longer needed, changed my mind",changed_mind
+RET00342,3275ccfe,MEN-8272,Other,zip broken jab khola tab,delivery_damage
+RET00343,a972b192,WMN-5503,Other,"fitting sahi nahi hai, length bhi short hai",fit
+RET00344,5f994310,WMN-5389,Other,color ekdum different tha jo dikha tha usse,fabric_quality
+RET00345,28cd944d,WMN-5055,Other,ordered blue kurti mila white bheja,wrong_item
+RET00346,cc9d8384,WMN-4882,Other,"ordered by mistake, cancel kardo",changed_mind
+RET00347,c055e2c1,WMN-4385,Other,expected better tbh,other
+RET00348,658fd7ee,MEN-3758,Other,"fitting sahi nahi hai, length bhi short hai",fit
+RET00349,e3c2c63e,MEN-2560,Other,"return kar rahi hu, bas pasand nahi aaya",other
+RET00350,a4687182,WMN-6277,Other,"kandhe se tight hai, return kar rahi hu",fit
+RET00351,60813785,MEN-5402,Other,"meh, thik nahi laga",other
+RET00352,438fcb67,MEN-5558,Other,not required anymore,changed_mind
+RET00353,e4c0cd2c,WMN-2526,Other,received a men's item instead of kidswear,wrong_item
+RET00354,5b51c8c4,KID-4470,Other,"ordered by mistake, cancel kardo",changed_mind
+RET00355,6314993f,KID-6631,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
+RET00356,06f717d7,WMN-3588,Other,"size chart galat tha, S order kiya but bahut tight aaya",fit
+RET00357,d532daf4,KID-3604,Other,"too loose around the waist, need one size down",fit
+RET00358,4e9b15b8,KID-3711,Other,ordered black kurti mila green bheja,wrong_item
+RET00359,d6f108ba,WMN-1017,Other,not as expected,other
+RET00360,64cf74f1,WMN-6629,Other,"quality bahut kharab, paisa waste",fabric_quality
+RET00361,6935e2ae,KID-2463,Other,found a better option elsewhere,changed_mind
+RET00362,975810ef,WMN-7270,Other,"size chart galat tha, L order kiya but bahut tight aaya",fit
+RET00363,f680ad45,MEN-3688,Other,stitching came apart after one wear,fabric_quality
+RET00364,e82b7140,MEN-8248,Other,not as expected,other
+RET00365,02205188,MEN-7291,Other,"size chart galat tha, M order kiya but bahut tight aaya",fit
+RET00366,f809715d,MEN-2380,Other,"ordered by mistake, cancel kardo",changed_mind
+RET00367,ccd440eb,MEN-9348,Other,just didn't like it,other
+RET00368,d9a0bac1,WMN-4949,Other,ordered beige kurti mila white bheja,wrong_item
+RET00369,2c421127,WMN-7337,Other,"packet phata hua aaya, item torn hai",delivery_damage
+RET00370,44654f7d,WMN-1273,Other,zip broken jab khola tab,delivery_damage
+RET00371,f882ceca,KID-9300,Other,"kandhe se tight hai, return kar rahi hu",fit
+RET00372,04f53124,WMN-6077,Other,not required anymore,changed_mind
+RET00373,a2cbfc4e,MEN-2083,Other,"quality bahut kharab, paisa waste",fabric_quality
+RET00374,49bd53fc,KID-2900,Other,found a better option elsewhere,changed_mind
+RET00375,19f4ff51,WMN-3248,Other,"packet phata hua aaya, item torn hai",delivery_damage
+RET00376,0a8df574,KID-3079,Other,color ekdum different tha jo dikha tha usse,fabric_quality
+RET00377,8a889045,KID-9582,Other,ordered black kurti mila white bheja,wrong_item
+RET00378,f773ce54,MEN-3734,Other,not required anymore,changed_mind
+RET00379,2aeca5fb,MEN-1042,Other,ordered blue kurti mila maroon bheja,wrong_item
+RET00380,1e5fbdbe,WMN-3932,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
+RET00381,f8a5af60,WMN-7819,Other,"fitting sahi nahi hai, length bhi short hai",fit
+RET00382,8f47edff,MEN-1862,Other,"different product bhej diya, ye to kuch aur h",wrong_item
+RET00383,2affd371,KID-2415,Other,"no longer needed, changed my mind",changed_mind
+RET00384,24d97d24,KID-4974,Other,"kandhe se tight hai, return kar rahi hu",fit
+RET00385,a360c179,WMN-7718,Other,zip broken jab khola tab,delivery_damage
+RET00386,4ebc8e7a,KID-6038,Other,just didn't like it,other
+RET00387,5e6c2353,KID-2524,Other,not required anymore,changed_mind
+RET00388,3d899b1f,WMN-2565,Other,zip broken jab khola tab,delivery_damage
+RET00389,2aaf405b,MEN-3141,Other,"meh, thik nahi laga",other
+RET00390,53826f55,KID-4827,Other,received a men's item instead of kidswear,wrong_item
+RET00391,f85a88d1,WMN-8365,Other,"quality bahut kharab, paisa waste",fabric_quality
+RET00392,f950a99f,KID-8591,Other,"no longer needed, changed my mind",changed_mind
+RET00393,9b2eee6c,KID-3430,Other,"runs small, ordered my usual L but it doesn't fit at all",fit
+RET00394,fa5e8d3c,WMN-1509,Other,received a men's item instead of kidswear,wrong_item
+RET00395,0e81ebd9,WMN-2989,Other,found a better option elsewhere,changed_mind
+RET00396,9836b31b,MEN-2376,Other,stitching came apart after one wear,fabric_quality
+RET00397,bcad9f52,MEN-8265,Other,ordered red kurti mila green bheja,wrong_item
+RET00398,c696ab70,WMN-3752,Other,"kandhe se tight hai, return kar rahi hu",fit
+RET00399,feefaf33,MEN-7990,Other,not required anymore,changed_mind
+RET00400,65b3c70b,WMN-5026,Other,"material feels cheap, not like the photos",fabric_quality
+RET00401,5108b1a8,KID-7275,Other,not required anymore,changed_mind
+RET00402,8a2f8477,MEN-6883,Other,expected better tbh,other
+RET00403,fa776588,WMN-1427,Other,"ordered by mistake, cancel kardo",changed_mind
+RET00404,ff3f64ad,MEN-6856,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
+RET00405,b3cf7786,WMN-5366,Other,stitching came apart after one wear,fabric_quality
+RET00406,ea691819,WMN-3885,Other,just didn't like it,other
+RET00407,27062785,MEN-3328,Other,"return kar rahi hu, bas pasand nahi aaya",other
+RET00408,1e2667ae,WMN-2478,Other,color ekdum different tha jo dikha tha usse,fabric_quality
+RET00409,1febdcc7,MEN-4300,Other,"fitting sahi nahi hai, length bhi short hai",fit
+RET00410,4325d920,WMN-3320,Other,"wrong size delivered, ordered L got S",wrong_item
+RET00411,8129f6d7,MEN-7481,Other,stains on the fabric on arrival,delivery_damage
+RET00412,ddebfe89,MEN-8157,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
+RET00413,2291a0d8,MEN-3872,Other,"ordered by mistake, cancel kardo",changed_mind
+RET00414,a2804f92,WMN-7415,Other,"return kar rahi hu, bas pasand nahi aaya",other
+RET00415,693047fb,WMN-2705,Other,"packet phata hua aaya, item torn hai",delivery_damage
+RET00416,3b35a2b1,KID-3750,Other,"material feels cheap, not like the photos",fabric_quality
+RET00417,dbbb6961,WMN-5088,Other,"kandhe se tight hai, return kar rahi hu",fit
+RET00418,75e1fd80,KID-8179,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
+RET00419,8f69e1f9,MEN-7149,Other,color ekdum different tha jo dikha tha usse,fabric_quality
+RET00420,95cebc55,WMN-5831,Other,"box was crushed, product damaged inside",delivery_damage
+RET00421,d4d70884,WMN-2228,Other,"size chart galat tha, L order kiya but bahut tight aaya",fit
+RET00422,c0ccfdb1,MEN-3703,Other,"kandhe se tight hai, return kar rahi hu",fit
+RET00423,718040ad,WMN-4112,Other,found a better option elsewhere,changed_mind
+RET00424,4a942c43,WMN-1813,Other,stains on the fabric on arrival,delivery_damage
+RET00425,74d7d9cf,WMN-8005,Other,zip broken jab khola tab,delivery_damage
+RET00426,46ce9e15,MEN-5781,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
+RET00427,cd93348a,KID-5341,Other,"no longer needed, changed my mind",changed_mind
+RET00428,f9859c1e,KID-1731,Other,"material feels cheap, not like the photos",fabric_quality
+RET00429,06012eb5,MEN-2584,Other,"wrong size delivered, ordered L got S",wrong_item
+RET00430,3e82f967,MEN-7858,Other,zip broken jab khola tab,delivery_damage
+RET00431,96be63c1,WMN-7468,Other,"meh, thik nahi laga",other
+RET00432,c587f2a3,WMN-3738,Other,just didn't like it,other
+RET00433,b461816f,MEN-8133,Other,stitching came apart after one wear,fabric_quality
+RET00434,f76a758e,KID-7510,Other,stains on the fabric on arrival,delivery_damage
+RET00435,2020deb6,KID-3451,Other,received a men's item instead of kidswear,wrong_item
+RET00436,6ad9387e,KID-7732,Other,"fitting sahi nahi hai, length bhi short hai",fit
+RET00437,2c94b690,KID-3356,Other,zip broken jab khola tab,delivery_damage
+RET00438,42616c7d,MEN-4892,Other,"meh, thik nahi laga",other
+RET00439,3a3294ef,KID-5593,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
+RET00440,30e2e804,MEN-8259,Other,just didn't like it,other
+RET00441,72dce64e,KID-4463,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
+RET00442,f4891763,WMN-2075,Other,not required anymore,changed_mind
+RET00443,ba252fc4,WMN-4288,Other,zip broken jab khola tab,delivery_damage
+RET00444,9f05be7c,MEN-4262,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
+RET00445,cc094491,KID-9008,Other,zip broken jab khola tab,delivery_damage
+RET00446,e6fe92fe,KID-2480,Other,color ekdum different tha jo dikha tha usse,fabric_quality
+RET00447,541513f7,WMN-4387,Other,"runs small, ordered my usual M but it doesn't fit at all",fit
+RET00448,c575b1bf,MEN-3837,Other,"packet phata hua aaya, item torn hai",delivery_damage
+RET00449,ce5b39b7,MEN-5511,Other,"runs small, ordered my usual L but it doesn't fit at all",fit
+RET00450,612f28b9,KID-5950,Other,"ordered by mistake, cancel kardo",changed_mind
+RET00451,7d3bd0f7,MEN-7131,Other,zip broken jab khola tab,delivery_damage
+RET00452,53a4782e,WMN-6509,Other,stains on the fabric on arrival,delivery_damage
+RET00453,0b77bc1d,MEN-5895,Other,"return kar rahi hu, bas pasand nahi aaya",other
+RET00454,99a0bad2,WMN-1417,Other,"fitting sahi nahi hai, length bhi short hai",fit
+RET00455,4846db71,MEN-1578,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
+RET00456,7f03c1c9,MEN-8794,Other,"box was crushed, product damaged inside",delivery_damage
+RET00457,c4e4cc78,MEN-3967,Other,"return kar rahi hu, bas pasand nahi aaya",other
+RET00458,b83c3826,WMN-4641,Other,"material feels cheap, not like the photos",fabric_quality
+RET00459,472500b6,KID-5817,Other,"return kar rahi hu, bas pasand nahi aaya",other
+RET00460,b90a2f1d,WMN-9199,Other,"too loose around the waist, need one size down",fit
+RET00461,36a4a944,WMN-4281,Other,stains on the fabric on arrival,delivery_damage
+RET00462,9c7022b3,WMN-2324,Other,zip broken jab khola tab,delivery_damage
+RET00463,f40b931b,KID-5481,Other,not as expected,other
+RET00464,59f73a31,MEN-8105,Other,"box was crushed, product damaged inside",delivery_damage
+RET00465,5ecddaf8,WMN-9745,Other,not required anymore,changed_mind
+RET00466,c9565ac5,WMN-5076,Other,"kandhe se tight hai, return kar rahi hu",fit
+RET00467,ee975057,MEN-6015,Other,"wrong size delivered, ordered L got S",wrong_item
+RET00468,24f5103e,MEN-3192,Other,"different product bhej diya, ye to kuch aur hai",wrong_item
+RET00469,4fcd6541,WMN-4742,Other,"ordered by mistake, cancel kardo",changed_mind
+RET00470,4e34ee40,MEN-1612,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
+RET00471,e7d44e56,WMN-1323,Other,"return kar rahi hu, bas pasand nahi aaya",other
+RET00472,19bed833,KID-8772,Other,not required anymore,changed_mind
+RET00473,7ec4c8ef,WMN-9524,Other,"fabric bhut thin hai, first wash mein hi fade ho gaya",fabric_quality
+RET00474,3ae15659,WMN-9154,Other,"no longer needed, changed my mind",changed_mind
+RET00475,b3833053,WMN-1645,Other,"wrong size delivered, ordered L got S",wrong_item
+RET00476,d6513f1b,WMN-2458,Other,color ekdum different tha jo dikha tha usse,fabric_quality
+RET00477,41dc8957,WMN-2659,Other,zip broken jab khola tab,delivery_damage
+RET00478,69c01581,KID-1820,Other,not as expected,other
+RET00479,9ee6ef16,MEN-2898,Other,"kandhe se tight h, return kar rahi hu",fit
+RET00480,2c41e000,KID-5395,Other,"runs small, ordered my usual M but it doesn't fit at all",fit
+RET00481,fe7ea48c,KID-7557,Other,"kandhe se tight hai, return kar rahi hu",fit
+RET00482,0902f7ef,WMN-2852,Other,received a men's item instead of kidswear,wrong_item
+RET00483,108928c1,MEN-8178,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
+RET00484,0177dad8,WMN-7738,Other,ordered beige kurti mila white bheja,wrong_item
+RET00485,0ebed62c,MEN-9598,Other,"kandhe se tight hai, return kar rahi hu",fit
+RET00486,b2c41aff,MEN-5072,Other,"box was crushed, product damaged inside",delivery_damage
+RET00487,5a4223a0,MEN-3571,Other,"meh, thik nahi laga",other
+RET00488,f30e42bf,KID-4946,Other,not required anymore,changed_mind
+RET00489,0dad66bc,WMN-2291,Other,ordered beige kurti mila white bheja,wrong_item
+RET00490,cab8ab62,KID-2944,Other,zip broken jab khola tab,delivery_damage
+RET00491,da157a35,WMN-9996,Other,just didn't like it,other
+RET00492,5e50de4a,KID-1889,Other,stains on the fabric on arrival,delivery_damage
+RET00493,a341858b,KID-2868,Other,"ordered by mistake, cancel kardo",changed_mind
+RET00494,01b6a3de,MEN-7125,Other,"kandhe se tight hai, return kar rahi hu",fit
+RET00495,c04044a5,MEN-7704,Other,"runs small, ordered my usual XL but it doesn't fit at all",fit
+RET00496,f40918b2,WMN-6536,Other,"fabric bahut thin hai, first wash mein hi fade ho gaya",fabric_quality
+RET00497,4e5fb884,MEN-9260,Other,"fitting sahi nahi hai, length bhi short hai",fit
+RET00498,07103f6a,KID-9328,Other,"fitting sahi nahi hai, length bhi short hai",fit
+RET00499,ac966e20,KID-6273,Other,"quality bahut kharab, paisa waste",fabric_quality
